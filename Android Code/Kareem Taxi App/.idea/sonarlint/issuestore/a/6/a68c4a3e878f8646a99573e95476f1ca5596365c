@@ -1,0 +1,13 @@
+
+f	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—§ô¢
+f	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—§ô¢
+l
+java:S1450$"VRemove the "txtMenu" field and declare it as a local variable in the relevant methods.(êÄÞÖ
+f	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—§ô¢
+f	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—§ô¢
+h
+java:S3776~"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(¡é††
+f	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—§ô¢
+Q	java:S110!"<This class has 9 parents which is greater than 5 authorized.(æ³ù
+c	java:S116#"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®©Ñè
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨½µÌÿÿÿÿÿ

@@ -1,0 +1,18 @@
+
+c
+java:S1192|"FDefine a constant instead of duplicating this literal "email" 4 times.(Æşéî8¿ß±±/
+y
+java:S1450("WRemove the "userData" field and declare it as a local variable in the relevant methods.(õÜØ•şÿÿÿÿ8¿ß±±/
+K	java:S108˜")Either remove or fill this block of code.(ÃÁİàşÿÿÿÿ8¿ß±±/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñË¹İıÿÿÿÿ
+f
+java:S1192Î"HDefine a constant instead of duplicating this literal "success" 4 times.(ö±á»8¿ß±±/
+D
+java:S1068)"'Remove this unused "TAG" private field.(á‰8¿ß±±/
+]	java:S125-"<This block of commented-out lines of code should be removed.(Å›øÿÿÿÿ8¿ß±±/
+s
+java:S1450"VRemove the "txtMenu" field and declare it as a local variable in the relevant methods.(êÄŞÖ8¿ß±±/
+u
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(õŠ”ùÿÿÿÿ8¿ß±±/
+j	java:S116)"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á‰8¿ß±±/
+X	java:S110"<This class has 9 parents which is greater than 5 authorized.(Ì¬ÊÊ8¿ß±±/

@@ -1,0 +1,14 @@
+
+€
+java:S1845«"iRename method "getlName" to prevent any misunderstanding/clash with method "getLName" defined on line 86.(ÌèÄ»
+€
+java:S1845¢"iRename method "getfName" to prevent any misunderstanding/clash with method "getFName" defined on line 78.(’²‡õ
+o
+java:S4144¢"XUpdate this method so that its implementation is not identical to "getFName" on line 78.(’²‡õ
+o
+java:S4144«"XUpdate this method so that its implementation is not identical to "getLName" on line 86.(ÌèÄ»
+€
+java:S1845¯"iRename method "setlName" to prevent any misunderstanding/clash with method "setLName" defined on line 90.(¹ëì¼
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ï”¯Í
+…
+java:S1845¦"iRename method "setfName" to prevent any misunderstanding/clash with method "setFName" defined on line 82.(§¬Ë¡ÿÿÿÿÿ

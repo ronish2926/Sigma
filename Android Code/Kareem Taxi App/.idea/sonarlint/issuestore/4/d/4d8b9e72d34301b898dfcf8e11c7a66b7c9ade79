@@ -1,0 +1,71 @@
+
+R	java:S125¤"<This block of commented-out lines of code should be removed.(ˆ˜àß
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€Ÿ¡ÿÿÿÿÿ
+B
+java:S1481Æ"+Remove this unused "intent" local variable.(„ò©¨
+d
+java:S2259ï"HA "NullPointerException" could be thrown; "dataObject" is nullable here.(ğŸ¯¡ûÿÿÿÿ
+i
+java:S3776C"SRefactor this method to reduce its Cognitive Complexity from 117 to the 15 allowed.(‹éû»
+f	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ëÇ
+M
+java:S2589b"7Remove this expression which always evaluates to "true"(™Á­
+s
+java:S1128'"XRemove this unused import 'com.haris.kareem.JsonUtil.OrderHistoryUtil.OrderHistoryJson'.(ÉÒŒ¥ÿÿÿÿÿ
+S
+java:S1854Ã"=Remove this useless assignment to local variable "NOTIFY_ID".(‰ëÇ
+S
+java:S2589Î"7Remove this expression which always evaluates to "true"(”±¢şÿÿÿÿ
+D
+java:S1481ç"(Remove this unused "pro" local variable.(ÅåŠ¨şÿÿÿÿ
+h	java:S116?"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—öò÷øÿÿÿÿ
+d
+java:S1871×"MThis branch's code block is the same as the block for the branch on line 210.(Ù¡ªà
+i
+java:S1871Ü"MThis branch's code block is the same as the block for the branch on line 200.(·Å…Óÿÿÿÿÿ
+R
+java:S1874·"6Remove this use of "ProgressDialog"; it is deprecated.(†Šëšøÿÿÿÿ
+W	java:S125Å"<This block of commented-out lines of code should be removed.(›Úç¾üÿÿÿÿ
+I
+java:S1481Ç"2Remove this unused "pendingIntent" local variable.(¡áÃ¡
+S
+java:S1854ç"7Remove this useless assignment to local variable "pro".(ÅåŠ¨şÿÿÿÿ
+R
+java:S1874"6Remove this use of "ProgressDialog"; it is deprecated.(Îø†ßÿÿÿÿÿ
+I
+java:S1481Á"-Remove this unused "acDialog" local variable.(óÎ§ûşÿÿÿÿ
+R
+java:S1874"6Remove this use of "ProgressDialog"; it is deprecated.(Îø†ßÿÿÿÿÿ
+i
+java:S1871Í"MThis branch's code block is the same as the block for the branch on line 200.(çë üÿÿÿÿ
+`
+java:S1117·"DRename "acProgressFlower" which hides the field declared at line 64.(†Šëšøÿÿÿÿ
+F
+java:S1481€"/Remove this unused "management" local variable.(Ãåêü
+Q
+java:S1874õ"5Remove this use of "PRIORITY_HIGH"; it is deprecated.(è–ıÿÿÿÿ
+—
+java:S1186à"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹ö›n
+B
+java:S1659ó"&Declare "coverUri" on a separate line.(©­‚Çıÿÿÿÿ
+I
+java:S1481ó"-Remove this unused "coverUri" local variable.(©­‚Çıÿÿÿÿ
+R
+java:S1874œ"6Remove this use of "ProgressDialog"; it is deprecated.(òÿè¢øÿÿÿÿ
+S
+java:S1854ÿ"<Remove this useless assignment to local variable "coverUri".(¥¸õœ
+q
+java:S1128!"\Remove this unused import 'com.haris.kareem.JsonUtil.DeliveryDetailUtil.DeliveryDetailJson'.(Ø­çT
+L
+java:S1874A"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº
+—
+java:S1186j"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¯ĞÉ²
+˜
+java:S1186Ú"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ßû¢½
+D
+java:S1481Ã".Remove this unused "NOTIFY_ID" local variable.(‰ëÇ
+R	java:S125ù"<This block of commented-out lines of code should be removed.(É¤Áİ
+R
+java:S1874£"6Remove this use of "ProgressDialog"; it is deprecated.(÷èĞ§ÿÿÿÿÿ
+U
+java:S1854€">Remove this useless assignment to local variable "management".(Ãåêü

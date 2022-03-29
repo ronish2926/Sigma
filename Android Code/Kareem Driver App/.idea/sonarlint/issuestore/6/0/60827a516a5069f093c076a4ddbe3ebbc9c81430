@@ -1,0 +1,34 @@
+
+e
+java:S1192Í"NDefine a constant instead of duplicating this literal "functionality" 3 times.(‹©òì
+Q	java:S110&"<This class has 8 parents which is greater than 5 authorized.(±’ÚØ
+l	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôœÛ¸øÿÿÿÿ
+g	java:S117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÚ¬®
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñË¹İıÿÿÿÿ
+U
+java:S1128":Remove this unused import 'android.widget.RelativeLayout'.(ü¯ğõşÿÿÿÿ
+l
+java:S14503"VRemove the "txtMenu" field and declare it as a local variable in the relevant methods.(êÄŞÖ
+c	java:S116'"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿâ×ò
+X
+java:S1126o"BReplace this if-then-else statement by a single method invocation.(È”ïÑ
+W	java:S125ı"<This block of commented-out lines of code should be removed.(Ğ‘¶»úÿÿÿÿ
+R	java:S125€"<This block of commented-out lines of code should be removed.(½‘Ñ³
+n
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Î‚Ñÿÿÿÿÿ
+W
+java:S1854Ã"@Remove this useless assignment to local variable "couponObject".(”ıú
+W
+java:S1854ö"@Remove this useless assignment to local variable "couponObject".(”ıú
+W
+java:S1854¶"@Remove this useless assignment to local variable "couponObject".(”ıú
+H
+java:S1481Ã"1Remove this unused "couponObject" local variable.(”ıú
+H
+java:S1481ö"1Remove this unused "couponObject" local variable.(”ıú
+H
+java:S1481¶"1Remove this unused "couponObject" local variable.(”ıú
+C
+java:S1068("-Remove this unused "imageUser" private field.(ïÉ½ª
+I
+java:S10682".Remove this unused "pictureUrl" private field.(±©Ò—úÿÿÿÿ

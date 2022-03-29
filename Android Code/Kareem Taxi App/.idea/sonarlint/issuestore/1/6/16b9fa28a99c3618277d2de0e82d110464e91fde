@@ -1,0 +1,46 @@
+
+O
+java:S1068P"2Remove this unused "selectedBitmap" private field.(¤”í¥8ºÑ‰±/
+Y
+java:S1068T"7Remove this unused "mGoogleSignInClient" private field.(äáºêûÿÿÿÿ8ºÑ‰±/
+j	java:S116R"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÖ¸§8ºÑ‰±/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨½µÌÿÿÿÿÿ
+
+java:S1192×"^Define a constant instead of duplicating this literal "signInWithCredential:failure " 3 times.(§©ëïùÿÿÿÿ8ãİ…±/
+‚
+java:S1450M"`Remove the "isPictureSelected" field and declare it as a local variable in the relevant methods.(ÙÓ˜µùÿÿÿÿ8‚ïÜ…±/
+d
+java:S1192¨"FDefine a constant instead of duplicating this literal "email" 4 times.(Æşéî8‚ïÜ…±/
+]	java:S125Y"<This block of commented-out lines of code should be removed.(Å›øÿÿÿÿ8ºÑ‰±/
+s
+java:S1450B"VRemove the "txtMenu" field and declare it as a local variable in the relevant methods.(êÄŞÖ8ºÑ‰±/
+^	java:S125×"<This block of commented-out lines of code should be removed.(‡ÕÕ™ıÿÿÿÿ8•®Ü…±/
+p
+java:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ƒ®„¤8‚ïÜ…±/
+Y	java:S125å"<This block of commented-out lines of code should be removed.(å†ò˜8‚ïÜ…±/
+p
+java:S1871¼"MThis branch's code block is the same as the block for the branch on line 569.(ÿø’ÿÿÿÿÿ8ãİ…±/
+X	java:S110A"<This class has 9 parents which is greater than 5 authorized.(ÂÔæÕ8ºÑ‰±/
+n	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·°º8•®Ü…±/
+\
+java:S1874ò"9Remove this use of "verifyPhoneNumber"; it is deprecated.(Ú©ã¬ıÿÿÿÿ8ãİ…±/
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åª’Õıÿÿÿÿ8•®Ü…±/
+€
+java:S1192Í"]Define a constant instead of duplicating this literal "signInWithCredential:success" 3 times.(¯‹¬‹ûÿÿÿÿ8ãİ…±/
+z
+java:S1450P"]Remove the "selectedBitmap" field and declare it as a local variable in the relevant methods.(¤”í¥8‚ïÜ…±/
+Y	java:S125¼"<This block of commented-out lines of code should be removed.(è‚Ï·8‚ïÜ…±/
+„
+java:S1450T"bRemove the "mGoogleSignInClient" field and declare it as a local variable in the relevant methods.(äáºêûÿÿÿÿ8‚ïÜ…±/
+Y	java:S125ß"<This block of commented-out lines of code should be removed.(™öôŞ8•®Ü…±/
+T
+java:S1874Û"1Remove this use of "getBitmap"; it is deprecated.(º›Èñøÿÿÿÿ8‚ïÜ…±/
+p
+java:S3776»"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¡é††8•®Ü…±/
+W
+java:S1068M"5Remove this unused "isPictureSelected" private field.(ÙÓ˜µùÿÿÿÿ8ºÑ‰±/
+f
+java:S1192“"HDefine a constant instead of duplicating this literal "success" 4 times.(ö±á»8‚ïÜ…±/
+V
+java:S1874ò"3Remove this use of "getInstance"; it is deprecated.(Ú©ã¬ıÿÿÿÿ8ãİ…±/
+^	java:S125ï"<This block of commented-out lines of code should be removed.(ëÔ²úÿÿÿÿ8•®Ü…±/

@@ -1,0 +1,36 @@
+
+F
+java:S1066§"/Merge this if statement with the enclosing one.(¨»é¤
+n
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ó»×¶þÿÿÿÿ
+R	java:S125é"<This block of commented-out lines of code should be removed.(®œ
+G
+java:S1068+",Remove this unused "runnable" private field.(±¨üÏûÿÿÿÿ
+R	java:S125Ô"<This block of commented-out lines of code should be removed.(èÈ„’
+g
+java:S1301ý"KReplace this "switch" statement by "if" statements to increase readability.(Ñƒ¨áúÿÿÿÿ
+A
+java:S1068*"+Remove this unused "handler" private field.(Æ¶Ø…
+I
+java:S1199Ø"-Extract this nested code block into a method.(Î—­Šþÿÿÿÿ
+W	java:S125ç"<This block of commented-out lines of code should be removed.(¹±€íøÿÿÿÿ
+Q	java:S110'"<This class has 9 parents which is greater than 5 authorized.(†ÕÉ¶
+t
+java:S1450("YRemove the "management" field and declare it as a local variable in the relevant methods.(‚ú’©üÿÿÿÿ
+D
+java:S1199Ñ"-Extract this nested code block into a method.(úÀÙ÷
+y
+java:S1450-"^Remove the "layoutConfigure" field and declare it as a local variable in the relevant methods.(º»Öùÿÿÿÿ
+W	java:S125¬"<This block of commented-out lines of code should be removed.(éÇÐÊúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨½µÌÿÿÿÿÿ
+O
+java:S1068,"9Remove this unused "SPLASH_DISPLAY_LENGTH" private field.(ûµ…Ó
+N
+java:S1068-"3Remove this unused "layoutConfigure" private field.(º»Öùÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(¶†ø§úÿÿÿÿ
+I
+java:S1199É"-Extract this nested code block into a method.(ŠšŸåüÿÿÿÿ
+h	java:S116."NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãåøÿÿÿÿ
+=	java:S131ý""Add a default case to this switch.(Ñƒ¨áúÿÿÿÿ
+ƒ
+java:S3252þ"gUse static access with "com.google.android.gms.common.api.CommonStatusCodes" for "RESOLUTION_REQUIRED".(Âþ†²ûÿÿÿÿ

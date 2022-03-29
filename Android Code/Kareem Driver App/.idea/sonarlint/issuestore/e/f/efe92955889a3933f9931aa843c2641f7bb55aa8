@@ -1,0 +1,17 @@
+
+l
+java:S1450"VRemove the "txtMenu" field and declare it as a local variable in the relevant methods.(êÄÞÖ
+t
+java:S1450"YRemove the "management" field and declare it as a local variable in the relevant methods.(‚ú’©üÿÿÿÿ
+v
+java:S1450"[Remove the "webviewAbout" field and declare it as a local variable in the relevant methods.(¢ŸÊŠüÿÿÿÿ
+A
+java:S1481g"+Remove this unused "object" local variable.(ÃøŠï
+P
+java:S1854g":Remove this useless assignment to local variable "object".(ÃøŠï
+K
+java:S1068"0Remove this unused "webviewAbout" private field.(¢ŸÊŠüÿÿÿÿ
+Q	java:S110"<This class has 9 parents which is greater than 5 authorized.(íÌ®˜
+Q	java:S125i"<This block of commented-out lines of code should be removed.(ìÒ¬Ü
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñË¹Ýýÿÿÿÿ
+c	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÿâç

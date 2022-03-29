@@ -1,0 +1,20 @@
+
+f
+java:S1192ç"HDefine a constant instead of duplicating this literal "success" 4 times.(ö±á»8 ï“±/
+c
+java:S1192y"FDefine a constant instead of duplicating this literal "email" 4 times.(Æşéî8 ï“±/
+l
+java:S1450#"VRemove the "txtMenu" field and declare it as a local variable in the relevant methods.(êÄŞÖ
+c	java:S116-"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á‰
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨½µÌÿÿÿÿÿ
+Q	java:S110""<This class has 9 parents which is greater than 5 authorized.(Ì¬ÊÊ
+r
+java:S1450,"WRemove the "userData" field and declare it as a local variable in the relevant methods.(õÜØ•şÿÿÿÿ
+u
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(»ÒÇ–ùÿÿÿÿ8 ï“±/
+V	java:S1251"<This block of commented-out lines of code should be removed.(Å›øÿÿÿÿ
+D	java:S108§")Either remove or fill this block of code.(ÃÁİàşÿÿÿÿ
+Z
+java:S1155ÿ">Use isEmpty() to check whether the collection is empty or not.(ÿŞ¤ÿÿÿÿÿ
+=
+java:S1068-"'Remove this unused "TAG" private field.(á‰

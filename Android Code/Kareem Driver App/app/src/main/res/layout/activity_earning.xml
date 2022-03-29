@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:barchart="http://schemas.android.com/apk/res-auto">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="?attr/colorBackgroundLight"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginTop="20dp"
+                android:gravity="center_vertical"
+                android:background="@drawable/bg_bottom_sheet"
+                android:orientation="vertical">
+
+                <androidx.appcompat.widget.AppCompatSpinner
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:id="@+id/spinner_type"></androidx.appcompat.widget.AppCompatSpinner>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="350dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/bg_bottom_sheet"
+                android:orientation="vertical">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:orientation="horizontal"
+                    android:gravity="center">
+
+
+                    <ImageView
+                        android:id="@+id/image_back"
+                        android:layout_width="37dp"
+                        android:layout_height="37dp"
+                        android:padding="12dp"
+                        android:tint="@color/tagline"
+                        android:src="@drawable/ic_previous"></ImageView>
+
+
+                    <LinearLayout
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:gravity="center">
+
+                        <com.haris.kareem_driver.TextviewUtil.TaglineTextview
+                            android:id="@+id/txt_calendar"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="@dimen/tagline_text_size"
+                            android:textColor="?attr/colorTagline"
+                            android:text="Dec 7 - 25"></com.haris.kareem_driver.TextviewUtil.TaglineTextview>
+
+                        <com.haris.kareem_driver.TextviewUtil.HeadingTextview
+                            android:id="@+id/txt_earning"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="@dimen/label_text_size"
+                            android:layout_marginTop="4dp"
+                            android:textColor="?attr/colorNormal"
+                            android:text="$ 1955"></com.haris.kareem_driver.TextviewUtil.HeadingTextview>
+
+
+                    </LinearLayout>
+
+
+                    <ImageView
+                        android:id="@+id/image_next"
+                        android:layout_width="37dp"
+                        android:layout_height="37dp"
+                        android:padding="12dp"
+                        android:tint="@color/tagline"
+                        android:src="@drawable/ic_next"></ImageView>
+
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:paddingStart="10dp"
+                    android:paddingRight="10dp"
+                    android:paddingEnd="10dp"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:orientation="vertical"
+                    >
+
+
+                    <me.ithebk.barchart.BarChart
+                        android:id="@+id/bar_chart_vertical"
+                        barchart:bar_type="vertical"
+                        barchart:bar_width="40dp"
+                        barchart:bar_color="@color/colorPrimary"
+                        barchart:bar_text_color="#808080"
+                        barchart:bar_text_size="@dimen/tagline_text_size"
+                        barchart:bar_show_auto_color="false"
+                        barchart:bar_max_value="100"
+                        barchart:bar_spaces = "10dp"
+                        barchart:bar_show_value="true"
+                        barchart:bar_show_animation="true"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"/>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_weight="1">
+
+                        <com.haris.kareem_driver.TextviewUtil.TaglineTextview
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="?attr/colorTagline"
+                            android:textSize="@dimen/tagline_text_size"
+                            android:text="@string/total_trip"></com.haris.kareem_driver.TextviewUtil.TaglineTextview>
+
+                        <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                            android:id="@+id/txt_total_trip"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="?attr/colorNormal"
+                            android:layout_marginTop="5dp"
+                            android:textSize="@dimen/normal_text_size"
+                            android:text="140"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:layout_weight="1"
+                        android:gravity="center">
+
+
+                        <com.haris.kareem_driver.TextviewUtil.TaglineTextview
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="?attr/colorTagline"
+                            android:textSize="@dimen/tagline_text_size"
+                            android:text="@string/total_duration"></com.haris.kareem_driver.TextviewUtil.TaglineTextview>
+
+                        <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                            android:id="@+id/txt_total_duration"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="?attr/colorNormal"
+                            android:textSize="@dimen/normal_text_size"
+                            android:layout_marginTop="5dp"
+                            android:text="6d 18h"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:layout_weight="1"
+                        android:gravity="center">
+
+
+                        <com.haris.kareem_driver.TextviewUtil.TaglineTextview
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="?attr/colorTagline"
+                            android:textSize="@dimen/tagline_text_size"
+                            android:text="@string/total_distance"></com.haris.kareem_driver.TextviewUtil.TaglineTextview>
+
+                        <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                            android:id="@+id/txt_total_distance"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="?attr/colorNormal"
+                            android:layout_marginTop="5dp"
+                            android:textSize="@dimen/normal_text_size"
+                            android:text="45 km"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:gravity="center_vertical"
+                android:background="@drawable/bg_bottom_sheet"
+                android:orientation="vertical">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+                    <com.haris.kareem_driver.TextviewUtil.LabelTextview
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="?attr/colorNormal"
+                        android:layout_gravity="left"
+                        android:layout_weight="1"
+                        android:textSize="@dimen/normal_text_size"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginStart="5dp"
+                        android:text="@string/earning"></com.haris.kareem_driver.TextviewUtil.LabelTextview>
+
+                    <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                        android:id="@+id/txt_total_earning"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="?attr/colorNormal"
+                        android:layout_gravity="left"
+                        android:textSize="@dimen/normal_text_size"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginStart="5dp"
+                        android:text="$ 1955"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="5dp"
+                    android:gravity="center_vertical">
+
+
+                    <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="?attr/colorTagline"
+                        android:layout_gravity="left"
+                        android:layout_weight="1"
+                        android:textSize="@dimen/normal_text_size"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginStart="5dp"
+                        android:text="@string/trip_earning"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+                    <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                        android:id="@+id/txt_your_earning"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="?attr/colorTagline"
+                        android:layout_gravity="left"
+                        android:textSize="@dimen/normal_text_size"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginStart="5dp"
+                        android:text="$ 1865"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="5dp"
+                    android:gravity="center_vertical">
+
+
+                    <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="?attr/colorTagline"
+                        android:layout_gravity="left"
+                        android:layout_weight="1"
+                        android:textSize="@dimen/normal_text_size"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginStart="5dp"
+                        android:text="@string/taxes"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+                    <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                        android:id="@+id/txt_taxes"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="?attr/colorTagline"
+                        android:layout_gravity="left"
+                        android:textSize="@dimen/normal_text_size"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginStart="5dp"
+                        android:text="$ 100"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</RelativeLayout>

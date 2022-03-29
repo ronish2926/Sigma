@@ -1,0 +1,18 @@
+
+i	java:S116;"TRename this field "status_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¯·û
+€
+java:S1845¹"iRename method "getfName" to prevent any misunderstanding/clash with method "getFName" defined on line 83.(’²‡õ
+€
+java:S1845Æ"iRename method "setlName" to prevent any misunderstanding/clash with method "setLName" defined on line 95.(¹ëì¼
+p	java:S100§"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÂîùÿÿÿÿ8Ê««±/
+…
+java:S1845½"iRename method "setfName" to prevent any misunderstanding/clash with method "setFName" defined on line 87.(§¬Ë¡ÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘î¯¼
+k	java:S100«"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÄÿµ8Ê««±/
+€
+java:S1845Â"iRename method "getlName" to prevent any misunderstanding/clash with method "getLName" defined on line 91.(ÌèÄ»
+o
+java:S4144¹"XUpdate this method so that its implementation is not identical to "getFName" on line 83.(’²‡õ
+o
+java:S4144Â"XUpdate this method so that its implementation is not identical to "getLName" on line 91.(ÌèÄ»
+g	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÄÿµ

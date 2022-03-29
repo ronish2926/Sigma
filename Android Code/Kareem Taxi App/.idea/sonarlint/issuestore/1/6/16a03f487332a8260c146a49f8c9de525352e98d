@@ -1,0 +1,24 @@
+
+H
+java:S1128"2Remove this unused import 'android.os.Parcelable'.(õÃÀ­
+H
+java:S1068*"-Remove this unused "imageBack" private field.(äš›ùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öì»˜
+v
+java:S1450,"`Remove the "gridLayoutManager" field and declare it as a local variable in the relevant methods.(†ºŸã
+˜
+java:S1186³"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡é††
+q
+java:S3923f"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ö‰¢
+`
+java:S1128"ERemove this unused import 'android.support.v7.app.AppCompatActivity'.(«Û®ûüÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(Á°İ©üÿÿÿÿ
+A
+java:S1068)"+Remove this unused "txtMenu" private field.(êÄŞÖ
+^
+java:S1128%"HRemove this unused import 'afu.org.checkerframework.checker.igj.qual.I'.(´€üí
+t
+java:S1450+"YRemove the "management" field and declare it as a local variable in the relevant methods.(‚ú’©üÿÿÿÿ
+v
+java:S1450-"`Remove the "recyclerViewOrder" field and declare it as a local variable in the relevant methods.( ‘½Ÿ
+c	java:S116("NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ííƒ

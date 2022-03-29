@@ -1,0 +1,27 @@
+
+˜
+java:S1186À"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±
+F
+java:S1481ã"/Remove this unused "connection" local variable.(Òûê§
+˜
+java:S1186Ì"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±¾ê
+r
+java:S3923Š"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ö‰¢
+D
+java:S10689".Remove this unused "prefObject" private field.(ôº¥ò
+R	java:S125İ"<This block of commented-out lines of code should be removed.(à¬Şæ
+h	java:S116/"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª‡…”ûÿÿÿÿ
+l
+java:S14500"VRemove the "txtMenu" field and declare it as a local variable in the relevant methods.(êÄŞÖ
+W	java:S125†"<This block of commented-out lines of code should be removed.(î‰ªÁûÿÿÿÿ
+o
+java:S14509"YRemove the "prefObject" field and declare it as a local variable in the relevant methods.(ôº¥ò
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨½µÌÿÿÿÿÿ
+V	java:S110,"<This class has 9 parents which is greater than 5 authorized.(ŸúƒØùÿÿÿÿ
+V	java:S125}"<This block of commented-out lines of code should be removed.(—æìĞúÿÿÿÿ
+Y
+java:S2259Ö"BA "NullPointerException" could be thrown; "data" is nullable here.(Ò“ø–
+v
+java:S14504"`Remove the "gridLayoutManager" field and declare it as a local variable in the relevant methods.(†ºŸã
+v
+java:S14505"`Remove the "recyclerViewOrder" field and declare it as a local variable in the relevant methods.( ‘½Ÿ

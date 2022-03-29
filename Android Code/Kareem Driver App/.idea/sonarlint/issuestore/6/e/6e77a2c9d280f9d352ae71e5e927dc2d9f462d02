@@ -1,0 +1,6 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸâÜæøÿÿÿÿ
+k
+java:S1104"UMake longitude a static final constant or non-public and provide accessors if needed.(ÍÍ¸¯
+j
+java:S1104"TMake latitude a static final constant or non-public and provide accessors if needed.(•û—ñ

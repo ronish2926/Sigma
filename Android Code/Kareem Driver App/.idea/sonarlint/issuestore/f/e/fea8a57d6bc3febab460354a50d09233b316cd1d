@@ -1,0 +1,22 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ë‰ëıÿÿÿÿ
+N
+java:S2589Ë"7Remove this expression which always evaluates to "true"(êæ¥¤
+h	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šöˆşÿÿÿÿ
+M
+java:S1135"2Complete the task associated to this TODO comment.(Ê÷Ééüÿÿÿÿ
+2
+java:S3626Ì"Remove this redundant jump.(ûÁİ…
+Y
+java:S1854<">Remove this useless assignment to local variable "objectList".(¡©òüùÿÿÿÿ
+N
+java:S18549"8Remove this useless assignment to local variable "gson".(şëŒ
+L
+java:S26961"6Make the enclosing method "static" or remove this set.(á­ë¯
+V	java:S125>"<This block of commented-out lines of code should be removed.(­ÔÓ½ûÿÿÿÿ
+?
+java:S14819")Remove this unused "gson" local variable.(şëŒ
+F
+java:S1481:"+Remove this unused "object" local variable.(¦Öİ“ûÿÿÿÿ
+J
+java:S1481<"/Remove this unused "objectList" local variable.(¡©òüùÿÿÿÿ

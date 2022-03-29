@@ -1,0 +1,29 @@
+
+i
+java:S1871º"MThis branch's code block is the same as the block for the branch on line 178.(‡ğÿ†ùÿÿÿÿ
+S
+java:S1481"7Remove this unused "lastItemInsertedId" local variable.(©î±ıÿÿÿÿ
+‡
+java:S1319Š"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(éË•í
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯µ¦¤
+K
+java:S1066Æ"/Merge this if statement with the enclosing one.(ËĞÅñşÿÿÿÿ
+h	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š€ºÍùÿÿÿÿ
+i
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(éË•í
+K
+java:S1066¾"/Merge this if statement with the enclosing one.(ËĞÅñşÿÿÿÿ
+E
+java:S1066¬"/Merge this if statement with the enclosing one.(’Ñ¼j
+K
+java:S1066¶"/Merge this if statement with the enclosing one.(ËĞÅñşÿÿÿÿ
+k
+java:S1450"URemove the "editor" field and declare it as a local variable in the relevant methods.(–ñèˆ
+d
+java:S1871Â"MThis branch's code block is the same as the block for the branch on line 178.(¤€Œó
+n
+java:S3776Ê"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ÅÖ²§şÿÿÿÿ
+n
+java:S3776â"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Œ±Ñûşÿÿÿÿ
+J
+java:S1066h"/Merge this if statement with the enclosing one.(ò’Ò¨úÿÿÿÿ

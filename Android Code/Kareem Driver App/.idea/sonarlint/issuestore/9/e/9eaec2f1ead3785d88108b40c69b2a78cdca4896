@@ -1,0 +1,51 @@
+
+]
+java:S2184ª"FCast one of the operands of this multiplication operation to a "long".(Œ¦“ø
+…	java:S116N"kRename this field "DEFAULT_INTERVAL_IN_MILLISECONDS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÔ–‚şÿÿÿÿ
+
+java:S1186™"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îŠ®†ùÿÿÿÿ
+b
+java:S2184­"FCast one of the operands of this multiplication operation to a "long".(Ï¾†üÿÿÿÿ
+s	java:S116@"YRename this field "rider_latitude" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¿ªÖøÿÿÿÿ
+W	java:S125ê"<This block of commented-out lines of code should be removed.(È¯úıÿÿÿÿ
+˜
+java:S1186¿"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÀÄŞ’
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ó¡ñ¡
+
+java:S1186µ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(â˜­¿şÿÿÿÿ
+˜
+java:S1186É"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÁïÕÒ
+y
+java:S1450?"^Remove the "rider_longitude" field and declare it as a local variable in the relevant methods.(ïêˆ¨øÿÿÿÿ
+H
+java:S1068M"2Remove this unused "locationEngine" private field.(‘¹Ó­
+h	java:S116;"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ßù»ûÿÿÿÿ
+q
+java:S1450B"VRemove the "mapView" field and declare it as a local variable in the relevant methods.(·Àºúÿÿÿÿ
+z	java:S116O"`Rename this field "DEFAULT_MAX_WAIT_TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(““˜¶ıÿÿÿÿ
+˜
+java:S1186Ä"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(çÅğÙ
+x
+java:S1450@"]Remove the "rider_latitude" field and declare it as a local variable in the relevant methods.(µ¿ªÖøÿÿÿÿ
+l	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ‚Æüÿÿÿÿ
+t	java:S116?"ZRename this field "rider_longitude" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïêˆ¨øÿÿÿÿ
+l	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æŞÉşÿÿÿÿ
+b
+java:S2184¤"FCast one of the operands of this multiplication operation to a "long".(‘‘…åúÿÿÿÿ
+j
+java:S1192«"NDefine a constant instead of duplicating this literal "functionality" 3 times.(ÍÒ´ øÿÿÿÿ
+D
+java:S1185‘"(Remove this method to simply inherit it.(İßéàúÿÿÿÿ
+]
+java:S2184§"FCast one of the operands of this multiplication operation to a "long".(°ºñ
+
+java:S1186º"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö£¯ùøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğÙçÊûÿÿÿÿ
+b
+java:S2184¬"FCast one of the operands of this multiplication operation to a "long".(“ğò¢şÿÿÿÿ
+l	java:S117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¦Íùÿÿÿÿ
+b
+java:S1192µ"FDefine a constant instead of duplicating this literal "JSON " 3 times.(¡ÕÍ±üÿÿÿÿ
+T
+java:S1068O"9Remove this unused "DEFAULT_MAX_WAIT_TIME" private field.(““˜¶ıÿÿÿÿ

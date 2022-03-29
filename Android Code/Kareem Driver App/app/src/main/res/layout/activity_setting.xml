@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivityUtil.Setting">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="?attr/colorBackground"
+        android:orientation="vertical">
+
+
+        <include
+            layout="@layout/menu_dark_layout"
+            android:layout_width="match_parent"
+            android:layout_height="51dp" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/layout_profile"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:paddingLeft="15dp"
+                    android:paddingStart="15dp"
+                    android:paddingRight="15dp"
+                    android:paddingEnd="15dp"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:padding="3dp"
+                        android:src="@drawable/ic_profile"
+                        android:tint="?attr/colorHeading" />
+
+
+                    <LinearLayout
+                        android:layout_weight="1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginStart="20dp"
+                        android:orientation="vertical">
+
+
+                        <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="?attr/colorNormal"
+                            android:textSize="@dimen/normal_text_size"
+                            android:text="@string/label_name"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+                        <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                            android:id="@+id/txt_name"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="@dimen/tagline_text_size"
+                            android:textColor="?attr/colorTagline"
+                            android:layout_marginTop="4dp"
+                            android:text="Alex Smith"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+                    </LinearLayout>
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:padding="3dp"
+                        android:rotation="0"
+                        android:rotationY="@integer/locale_mirror_flip"
+                        android:src="@drawable/ic_next"
+                        android:tint="?attr/colorHeading" />
+
+
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:background="?attr/colorTagline"></TextView>
+
+
+
+                <LinearLayout
+                    android:id="@+id/layout_email"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:paddingLeft="15dp"
+                    android:paddingStart="15dp"
+                    android:paddingRight="15dp"
+                    android:paddingEnd="15dp"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:padding="3dp"
+                        android:src="@drawable/ic_email"
+                        android:tint="?attr/colorHeading" />
+
+
+                    <LinearLayout
+                        android:layout_weight="1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginStart="20dp"
+                        android:orientation="vertical">
+
+
+                        <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="?attr/colorNormal"
+                            android:textSize="@dimen/normal_text_size"
+                            android:text="@string/label_email"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+                        <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                            android:id="@+id/txt_email"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="@dimen/tagline_text_size"
+                            android:textColor="?attr/colorTagline"
+                            android:layout_marginTop="4dp"
+                            android:text="Testing@gmail.com"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+                    </LinearLayout>
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:padding="3dp"
+                        android:rotation="0"
+                        android:rotationY="@integer/locale_mirror_flip"
+                        android:src="@drawable/ic_next"
+                        android:tint="?attr/colorHeading" />
+
+
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:background="?attr/colorTagline"></TextView>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:paddingLeft="15dp"
+                    android:paddingStart="15dp"
+                    android:paddingRight="15dp"
+                    android:paddingEnd="15dp"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:padding="3dp"
+                        android:src="@drawable/ic_phone"
+                        android:tint="?attr/colorHeading" />
+
+
+                    <LinearLayout
+                        android:layout_weight="1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginStart="20dp"
+                        android:orientation="vertical">
+
+
+                        <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="?attr/colorNormal"
+                            android:textSize="@dimen/normal_text_size"
+                            android:text="@string/label_phone"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+                        <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                            android:id="@+id/txt_phone"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="@dimen/tagline_text_size"
+                            android:textColor="?attr/colorTagline"
+                            android:layout_marginTop="4dp"
+                            android:text="Alex Smith"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+                    </LinearLayout>
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:padding="3dp"
+                        android:rotation="0"
+                        android:rotationY="@integer/locale_mirror_flip"
+                        android:src="@drawable/ic_next"
+                        android:tint="?attr/colorHeading" />
+
+
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:background="?attr/colorTagline"></TextView>
+
+
+
+
+
+                <LinearLayout
+                    android:id="@+id/layout_password"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:paddingLeft="15dp"
+                    android:paddingStart="15dp"
+                    android:paddingRight="15dp"
+                    android:paddingEnd="15dp"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:padding="3dp"
+                        android:src="@drawable/ic_phone"
+                        android:tint="?attr/colorHeading" />
+
+
+                    <LinearLayout
+                        android:layout_weight="1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginStart="20dp"
+                        android:orientation="vertical">
+
+
+                        <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="?attr/colorNormal"
+                            android:textSize="@dimen/normal_text_size"
+                            android:text="@string/label_password"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+
+                    </LinearLayout>
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:padding="3dp"
+                        android:rotation="0"
+                        android:rotationY="@integer/locale_mirror_flip"
+                        android:src="@drawable/ic_next"
+                        android:tint="?attr/colorHeading" />
+
+
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:background="?attr/colorTagline"></TextView>
+
+
+
+
+                <LinearLayout
+                    android:id="@+id/layout_bank"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:paddingLeft="15dp"
+                    android:paddingStart="15dp"
+                    android:paddingRight="15dp"
+                    android:paddingEnd="15dp"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:padding="3dp"
+                        android:src="@drawable/ic_bank_detail"
+                        android:tint="?attr/colorHeading" />
+
+
+                    <LinearLayout
+                        android:layout_weight="1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginStart="20dp"
+                        android:orientation="vertical">
+
+
+                        <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="?attr/colorNormal"
+                            android:textSize="@dimen/normal_text_size"
+                            android:text="@string/my_bank_detail"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+                        <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="@dimen/tagline_text_size"
+                            android:textColor="?attr/colorTagline"
+                            android:layout_marginTop="4dp"
+                            android:text="@string/bank_detail_tagline"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+                    </LinearLayout>
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:padding="3dp"
+                        android:rotation="0"
+                        android:rotationY="@integer/locale_mirror_flip"
+                        android:src="@drawable/ic_next"
+                        android:tint="?attr/colorHeading" />
+
+
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:background="?attr/colorTagline"></TextView>
+
+
+                <LinearLayout
+                    android:id="@+id/layout_documents"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:paddingLeft="15dp"
+                    android:paddingStart="15dp"
+                    android:paddingRight="15dp"
+                    android:paddingEnd="15dp"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:padding="3dp"
+                        android:src="@drawable/ic_document"
+                        android:tint="?attr/colorHeading" />
+
+
+                    <LinearLayout
+                        android:layout_weight="1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginStart="20dp"
+                        android:orientation="vertical">
+
+
+                        <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="?attr/colorNormal"
+                            android:textSize="@dimen/normal_text_size"
+                            android:text="@string/label_driving_license"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+                        <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="@dimen/tagline_text_size"
+                            android:textColor="?attr/colorTagline"
+                            android:layout_marginTop="4dp"
+                            android:text="@string/document_tagline"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+                    </LinearLayout>
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:padding="3dp"
+                        android:rotation="0"
+                        android:rotationY="@integer/locale_mirror_flip"
+                        android:src="@drawable/ic_next"
+                        android:tint="?attr/colorHeading" />
+
+
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:background="?attr/colorTagline"></TextView>
+
+
+                <LinearLayout
+                    android:id="@+id/layout_identity"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:paddingLeft="15dp"
+                    android:paddingStart="15dp"
+                    android:paddingRight="15dp"
+                    android:paddingEnd="15dp"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:padding="3dp"
+                        android:src="@drawable/ic_document"
+                        android:tint="?attr/colorHeading" />
+
+
+                    <LinearLayout
+                        android:layout_weight="1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginStart="20dp"
+                        android:orientation="vertical">
+
+
+                        <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="?attr/colorNormal"
+                            android:textSize="@dimen/normal_text_size"
+                            android:text="@string/label_identity_card"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+                        <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="@dimen/tagline_text_size"
+                            android:textColor="?attr/colorTagline"
+                            android:layout_marginTop="4dp"
+                            android:text="@string/document_tagline"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+                    </LinearLayout>
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:padding="3dp"
+                        android:rotation="0"
+                        android:rotationY="@integer/locale_mirror_flip"
+                        android:src="@drawable/ic_next"
+                        android:tint="?attr/colorHeading" />
+
+
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:background="?attr/colorTagline"></TextView>
+
+
+                <LinearLayout
+                    android:id="@+id/layout_car_documents"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:paddingLeft="15dp"
+                    android:paddingStart="15dp"
+                    android:paddingRight="15dp"
+                    android:paddingEnd="15dp"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:padding="3dp"
+                        android:src="@drawable/ic_document"
+                        android:tint="?attr/colorHeading" />
+
+
+                    <LinearLayout
+                        android:layout_weight="1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginStart="20dp"
+                        android:orientation="vertical">
+
+
+                        <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="?attr/colorNormal"
+                            android:textSize="@dimen/normal_text_size"
+                            android:text="@string/label_car_document"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+                        <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="@dimen/tagline_text_size"
+                            android:textColor="?attr/colorTagline"
+                            android:layout_marginTop="4dp"
+                            android:text="@string/document_tagline"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+                    </LinearLayout>
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:padding="3dp"
+                        android:rotation="0"
+                        android:rotationY="@integer/locale_mirror_flip"
+                        android:src="@drawable/ic_next"
+                        android:tint="?attr/colorHeading" />
+
+
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:background="?attr/colorTagline"></TextView>
+
+
+                <LinearLayout
+                    android:id="@+id/layout_car_picture"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:paddingLeft="15dp"
+                    android:paddingStart="15dp"
+                    android:paddingRight="15dp"
+                    android:paddingEnd="15dp"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:padding="3dp"
+                        android:src="@drawable/ic_document"
+                        android:tint="?attr/colorHeading" />
+
+
+                    <LinearLayout
+                        android:layout_weight="1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginStart="20dp"
+                        android:orientation="vertical">
+
+
+                        <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="?attr/colorNormal"
+                            android:textSize="@dimen/normal_text_size"
+                            android:text="@string/label_car_pictures"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+                        <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="@dimen/tagline_text_size"
+                            android:textColor="?attr/colorTagline"
+                            android:layout_marginTop="4dp"
+                            android:text="@string/car_picture_tagline"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+                    </LinearLayout>
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:padding="3dp"
+                        android:rotation="0"
+                        android:rotationY="@integer/locale_mirror_flip"
+                        android:src="@drawable/ic_next"
+                        android:tint="?attr/colorHeading" />
+
+
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:background="?attr/colorTagline"></TextView>
+
+
+                <LinearLayout
+                    android:id="@+id/layout_logout"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:paddingLeft="15dp"
+                    android:paddingStart="15dp"
+                    android:paddingRight="15dp"
+                    android:paddingEnd="15dp"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:padding="3dp"
+                        android:src="@drawable/ic_logout_filled"
+                        android:tint="?attr/colorHeading" />
+
+
+                    <LinearLayout
+                        android:layout_weight="1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginStart="20dp"
+                        android:orientation="vertical">
+
+
+                        <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="?attr/colorNormal"
+                            android:textSize="@dimen/normal_text_size"
+                            android:text="@string/label_logout"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+                        <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="@dimen/tagline_text_size"
+                            android:textColor="?attr/colorTagline"
+                            android:layout_marginTop="4dp"
+                            android:text="@string/logout_tagline"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+                    </LinearLayout>
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:padding="3dp"
+                        android:rotation="0"
+                        android:rotationY="@integer/locale_mirror_flip"
+                        android:src="@drawable/ic_next"
+                        android:tint="?attr/colorHeading" />
+
+
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:background="?attr/colorTagline"></TextView>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:paddingLeft="15dp"
+                    android:paddingStart="15dp"
+                    android:paddingRight="15dp"
+                    android:paddingEnd="15dp"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+                    <LinearLayout
+                        android:layout_weight="1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginStart="20dp"
+                        android:orientation="vertical">
+
+
+                        <com.haris.kareem_driver.TextviewUtil.NormalTextview
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="?attr/colorNormal"
+                            android:textSize="@dimen/normal_text_size"
+                            android:text="@string/activate_captain"></com.haris.kareem_driver.TextviewUtil.NormalTextview>
+
+
+                        <!--<com.haris.kareem_driver.TextviewUtil.NormalTextview
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="@dimen/tagline_text_size"
+                            android:textColor="?attr/colorTagline"
+                            android:layout_marginTop="4dp"
+                            android:text="@string/car_picture_tagline"></com.haris.kareem_driver.TextviewUtil.NormalTextview>-->
+
+
+                    </LinearLayout>
+
+
+                    <Switch
+                        android:id="@+id/switch_push"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentEnd="true"
+                        android:layout_centerVertical="true"
+                        android:checked="true"
+                        android:padding="3dp"
+                        android:rotation="0"
+                        android:thumbTint="@color/white"
+                        android:track="@drawable/track" />
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+
+        </ScrollView>
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

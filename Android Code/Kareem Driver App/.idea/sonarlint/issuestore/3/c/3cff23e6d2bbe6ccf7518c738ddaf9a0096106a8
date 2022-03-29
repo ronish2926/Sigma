@@ -1,0 +1,39 @@
+
+K
+java:S1066¦"/Merge this if statement with the enclosing one.(ËĞÅñşÿÿÿÿ
+K
+java:S1066"/Merge this if statement with the enclosing one.(ËĞÅñşÿÿÿÿ
+k
+java:S1450"URemove the "editor" field and declare it as a local variable in the relevant methods.(–ñèˆ
+†
+java:S1319r"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(éË•í
+d
+java:S1871ª"MThis branch's code block is the same as the block for the branch on line 154.(¤€Œó
+R
+java:S1481u"7Remove this unused "lastItemInsertedId" local variable.(©î±ıÿÿÿÿ
+h
+java:S3776r"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(éË•í
+h	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š€ºÍùÿÿÿÿ
+c
+java:S3973¾"GUse indentation to denote the code conditionally executed by this "if".(ø¦Û±şÿÿÿÿ
+J
+java:S1066O"/Merge this if statement with the enclosing one.(Ê”‹şÿÿÿÿ
+N
+java:S1135ï"2Complete the task associated to this TODO comment.(ââ üÿÿÿÿ
+c
+java:S3973¶"GUse indentation to denote the code conditionally executed by this "if".(¯êÅ…ûÿÿÿÿ
+^
+java:S3973É"GUse indentation to denote the code conditionally executed by this "if".(Ûòî®
+^
+java:S3973Æ"GUse indentation to denote the code conditionally executed by this "if".(‚Õ×í
+i
+java:S1871¢"MThis branch's code block is the same as the block for the branch on line 154.(‡ğÿ†ùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™±œ
+K
+java:S1066®"/Merge this if statement with the enclosing one.(ËĞÅñşÿÿÿÿ
+^
+java:S3973»"GUse indentation to denote the code conditionally executed by this "if".(§ö•À
+n
+java:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÅÖ²§şÿÿÿÿ
+E
+java:S1066”"/Merge this if statement with the enclosing one.(’Ñ¼j

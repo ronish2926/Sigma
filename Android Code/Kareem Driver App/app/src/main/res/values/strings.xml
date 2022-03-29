@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <color name="black_transparent">#3f000000</color>
+
+    <!--String for Error Messages-->
+
+    <string name="app_name">Kareem Captain</string>
+    <string name="internet_not_available">Internet not available</string>
+
+    <!--String for General Messages-->
+
+    <string name="download_error">Error while downloading</string>
+    <string name="downloading">Downloading</string>
+    <string name="forgot">We just need your registered Email id to sent you \n password reset instructions</string>
+
+    <!--String for Toast Messages-->
+
+
+    <string name="email_empty">Email is empty</string>
+    <string name="password_empty">Password Empty</string>
+    <string name="empty_first_name">Empty First Name</string>
+    <string name="empty_last_name">Empty Last Name</string>
+    <string name="password_mis_match">Password did not match</string>
+
+    <!--String for Base Fragment-->
+
+    <string name="select_picture">Kindly select picture</string>
+
+    <!--String for Navigation Drawer-->
+
+    <string name="favourites">Favourite</string>
+    <string name="download">Download</string>
+
+    <!--String for Menu Text-->
+
+    <string name="about_us">Privacy Policy</string>
+    <string name="using_camera">Using Camera</string>
+    <string name="using_gallery">Using Gallery</string>
+    <string name="picture_selector">Select Picture</string>
+    <string name="create_account">Create Account</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="reset">Reset</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="already_have_account">Already have an account ?</string>
+
+    <!--String for Place Holder-->
+
+    <string name="did_not_create_account">Don\'t have an account\t?</string>
+
+    <!--String for Permission Messages-->
+
+    <string name="external_storage_permission">It need Storage permission for app to work</string>
+
+
+    <!--String for Edit Text hint-->
+
+    <string name="read_phone_state_permission">It need network state permission for app to work</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="progress">Progress</string>
+
+    <!--String for HomeFragment screen-->
+
+    <string name="setting">Setting</string>
+    <string name="loading_configuration">Loading</string>
+
+    <!--String for Google Map Key -->
+
+    <string name="google_map_key">AIzaSyDMaGgFHILg8l8UCj0S9RlNBgdUpLcBb00</string>
+
+    <!--String for Live Wallpaper-->
+
+
+    <string name="downloading_tagline">Downloading</string>
+    <string name="need_camera_permission">It need camera permission for app to run</string>
+
+    <string name="done">Done</string>
+
+    <string name="phone_authentication">Authenticate Your Phone</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="verify">Verify Phone</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="email_phone">Empty Phone</string>
+    <string name="upload_picture">Upload Picture</string>
+    <string name="upload_picture_tagline">Kindly add the pictures</string>
+
+    <string name="important_notice">Important Notice</string>
+    <string name="cancel">Cancel</string>
+    <string name="chatting">Chatting</string>
+    <string name="write_message">Type a message</string>
+    <string name="typing_tagline">is typing ......</string>
+    <string name="cancel_important_notice">Make sure , you want to cancel the navigation , it would cancel the order &amp; cause interruption</string>
+    <string name="order_complete_notice">Kindly confirm it once again , you want to complete the order finally</string>
+    <string name="my_bank_detail">My Bank Detail</string>
+    <string name="document_uploader">My Documents</string>
+    <string name="no_document">No Document Found</string>
+    <string name="no_document_tagline">You did not add any documents</string>
+    <string name="upload_document">Upload Documents..</string>
+    <string name="ready_to_upload">Ready to Upload</string>
+    <string name="account_holder_name">Account Holder Name</string>
+    <string name="account_number">Account No.</string>
+    <string name="bank_transist_no">Transist No</string>
+    <string name="bank_no">Bank No</string>
+    <string name="update_detail">Update Detail</string>
+    <string name="adding_bank_detail">Adding Detail ...</string>
+    <string name="update_bank_detail">Updating Detail</string>
+    <string name="empty_holder_name">Empty holder name</string>
+    <string name="empty_account_no">Empty account no</string>
+    <string name="empty_transist_no">Empty transist no</string>
+    <string name="empty_bank_no">Empty bank no</string>
+    <string name="creating_account">Creating Account ..</string>
+    <string name="loging_user">Login User ..</string>
+    <string name="password_sent_email">Kindly check your email , we send the password at your given email</string>
+    <string name="customer_name">Customer Detail</string>
+    <string name="billing_detail">Billing Detail</string>
+    <string name="accept_ride">Accept Ride</string>
+    <string name="reject_ride">Reject Ride</string>
+    <string name="checking">Checking</string>
+    <string name="earning_tagline">Your earning for this trip</string>
+    <string name="got_it">Got it !</string>
+    <string name="current_rides">Current Rides</string>
+    <string name="your_earning">Your Earning</string>
+    <string name="total_trip">Total Trips</string>
+    <string name="total_duration">Total Duration</string>
+    <string name="total_distance">Total Distance</string>
+    <string name="earning">Earnings</string>
+    <string name="trip_earning">Trip Earning</string>
+    <string name="taxes">Taxes</string>
+
+
+    <string name="select_statistics_type">Select Analytics Type</string>
+    <string name="weekly_statistics">Weekly Earning Report</string>
+    <string name="monthly_statistics">Monthly Earning Report</string>
+    <string name="need_to_upload">You need to upload your</string>
+    <string name="driving_license">Driving License</string>
+    <string name="driving_license_tagline">Kindly upload your document pictures , make sure picture would not be blur and all of the information would be shown clearly</string>
+    <string name="identity_card">Identity Card</string>
+    <string name="car_documents">Car Documents</string>
+    <string name="car_pictures">Car Pictures</string>
+    <string name="label_email">Email</string>
+    <string name="label_phone">Phone</string>
+    <string name="label_name">Name</string>
+    <string name="label_driving_license">Driving License</string>
+    <string name="document_tagline">Captain Necessary Documents</string>
+    <string name="label_identity_card">National Identity Card</string>
+    <string name="label_car_document">Car Registration Documents</string>
+    <string name="label_car_pictures">Your Car Pictures</string>
+    <string name="car_picture_tagline">Captain Car Pictures</string>
+    <string name="activate_captain">Enable to activate your cab services</string>
+    <string name="label_logout">Logout Profile</string>
+    <string name="logout_tagline">Logout from your profile</string>
+    <string name="bank_detail_tagline">Bank Account Detail</string>
+    <string name="brand_name">Car Brand</string>
+    <string name="car_name">Car Name</string>
+    <string name="car_colour">Car Colour</string>
+    <string name="car_plate">Car Number Plate</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="captain_name">Captain Name</string>
+    <string name="updated_successfully">Updated Successfully</string>
+    <string name="incorrect_current_password">InCorrect Current Password</string>
+    <string name="incorrect_both_password">InCorrect both password</string>
+    <string name="label_password">Password</string>
+    <string name="permanent_address">Permanent Address</string>
+    <string name="select_location">Select Location From Map</string>
+    <string name="current_location">Current Location</string>
+    <string name="area_selector">Select Area</string>
+    <string name="select_car_type">Select Car Type</string>
+    <string name="select_city">Select City</string>
+    <string name="search_location">Search Location</string>
+    <string name="select_ride_category">Select Ride Category</string>
+    <string name="upload_necessary_documents">Kindly upload necessary documents , you are moving toward setting for uploading documents</string>
+
+    <string name="search">Search</string>
+    <string name="waiting_time_started">Reached at PickUp Location</string>
+    <string name="start_ride">Start Ride</string>
+    <string name="waiting_charge_tagline">Waiting timer started now\n it would charge fee automatically</string>
+    <string name="dropoff_dialog_text">Move toward destination</string>
+    <string name="dropoff_dialog_positive_text">Yes</string>
+    <string name="dropoff_dialog_negative_text">No</string>
+
+</resources>

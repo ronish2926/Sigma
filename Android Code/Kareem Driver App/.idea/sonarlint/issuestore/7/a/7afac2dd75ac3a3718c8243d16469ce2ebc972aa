@@ -1,0 +1,36 @@
+
+h	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÍ¡ğşÿÿÿÿ
+f	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÖ
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íó÷
+f	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓâÀØ
+c	java:S100X"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓâÀØ
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íó÷
+f	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï‹Æø
+h
+java:S1104"RMake status a static final constant or non-public and provide accessors if needed.(œ©²ÿ
+t
+java:S1104"^Make company_percentage a static final constant or non-public and provide accessors if needed.(Ô¾À€
+k
+java:S1104"VMake trip_price a static final constant or non-public and provide accessors if needed.(ÔïÒ+
+r	java:S116	"]Rename this field "remaining_duration" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òñ”¦
+c	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï‹Æø
+h	java:S100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÆóÜÿÿÿÿÿ
+r	java:S116"]Rename this field "company_percentage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¾À€
+c	java:S100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¶ê¹
+k	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÍ¡ğşÿÿÿÿ
+k
+java:S1104"UMake longitude a static final constant or non-public and provide accessors if needed.(ÍÍ¸¯
+t
+java:S1104
+"^Make remaining_distance a static final constant or non-public and provide accessors if needed.(´†Å†
+c	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÖ
+i	java:S116"URename this field "trip_price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔïÒ+
+t
+java:S1104	"^Make remaining_duration a static final constant or non-public and provide accessors if needed.(òñ”¦
+r	java:S116
+"]Rename this field "remaining_distance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´†Å†
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸâÜæøÿÿÿÿ
+h	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¡Ëûşÿÿÿÿ
+h	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı£«‘ÿÿÿÿÿ
+j
+java:S1104"TMake latitude a static final constant or non-public and provide accessors if needed.(•û—ñ

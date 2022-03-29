@@ -1,0 +1,765 @@
+
+q
+java:S1104_"VMake USER_EMAIL a static final constant or non-public and provide accessors if needed.(ÆÙ¨Çıÿÿÿÿ
+E
+java:S1444".Make this "public static CATEGORY" field final(¹ÎÛá
+~
+java:S3008„"gRename this field "REQUEST_CODE_SELECT_CAR_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éá›µ
+V
+java:S1118ë":Add a private constructor to hide the implicit public one.(¯ÈÙúÿÿÿÿ
+€
+java:S3008Í"iRename this field "CART_COLUMN_PRODUCT_BASE_PRICE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëùæ×
+I
+java:S1444Û"2Make this "public static dateFormat24" field final(şÉŠú
+K
+java:S1444_"0Make this "public static USER_EMAIL" field final(ÆÙ¨Çıÿÿÿÿ
+K
+java:S1444"4Make this "public static REQUEST_OBJECT" field final(ôµ
+ˆ
+java:S1104Æ"lMake CART_COLUMN_RESTAURANT_LONGITUDE a static final constant or non-public and provide accessors if needed.(ÂîÑ¬úÿÿÿÿ
+J
+java:S1444ó"3Make this "public static CATEGORY_TYPE" field final(ï•ı¶
+y
+java:S3008{"^Rename this field "GOOGLE_SIGN_IN_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇİÊ“şÿÿÿÿ
+l
+java:S3008í"URename this field "error_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı”È±
+n
+java:S3008ì"WRename this field "success_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Õú·
+H
+java:S1444à"2Make this "public static timeFormat12" field final(¬¿õ
+n
+java:S1104>"XMake DEVICE_TOKEN a static final constant or non-public and provide accessors if needed.(¯æ‰ö
+n
+java:S3008`"XRename this field "USER_PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¹ÅÕ
+p
+java:S1104¬"TMake CHATTING a static final constant or non-public and provide accessors if needed.(©ğü¯ûÿÿÿÿ
+G
+java:S1444í"0Make this "public static error_code" field final(ı”È±
+o
+java:S3008 "SRename this field "ON_BOARD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ’—¦şÿÿÿÿ
+q
+java:S1104ø"UMake URL_VIDEO a static final constant or non-public and provide accessors if needed.(óµÇËşÿÿÿÿ
+t
+java:S3008b"YRename this field "USER_LAST_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ñòÕøÿÿÿÿ
+N
+java:S1444°"8Make this "public static COMPANY_PERCENTAGE" field final(ŞÒ!
+z
+java:S3008"_Rename this field "REQUEST_CODE_PICTURE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Ê¹¯ÿÿÿÿÿ
+p
+java:S1104k"UMake ARTIST_ID a static final constant or non-public and provide accessors if needed.(¡îîëøÿÿÿÿ
+k
+java:S3008Ÿ"TRename this field "BOOK_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËË«­
+F
+java:S1444Ÿ"/Make this "public static BOOK_TYPE" field final(ËË«­
+s
+java:S3008°"]Rename this field "COMPANY_PERCENTAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÒ!
+o
+java:S3008˜"XRename this field "PLAYLIST_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò˜úÀ
+p
+java:S3008”"TRename this field "ARTIST_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡îîëøÿÿÿÿ
+K
+java:S1444Â"4Make this "public static CART_COLUMN_ID" field final(¨Ğ»¤
+n
+java:S3008^"XRename this field "USER_REMEMBER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¾…«
+
+java:S1104Í"jMake CART_COLUMN_PRODUCT_BASE_PRICE a static final constant or non-public and provide accessors if needed.(Ëùæ×
+ƒ
+java:S3008Ì"gRename this field "CART_COLUMN_PRODUCT_QUANTITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éË¹„ıÿÿÿÿ
+m
+java:S3008—"VRename this field "PLAYLIST_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìø«„
+t
+java:S1104°"^Make COMPANY_PERCENTAGE a static final constant or non-public and provide accessors if needed.(ŞÒ!
+I
+java:S1444i".Make this "public static BIO_TYPE" field final(ŠÃÏÆùÿÿÿÿ
+u
+java:S1104¥"YMake RECIPE_DETAIL a static final constant or non-public and provide accessors if needed.(²µ»´ÿÿÿÿÿ
+o
+java:S3008k"TRename this field "ARTIST_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡îîëøÿÿÿÿ
+I
+java:S1444`"3Make this "public static USER_PASSWORD" field final(ˆ¹ÅÕ
+q
+java:S1104"ZMake REQUEST_OBJECT a static final constant or non-public and provide accessors if needed.(ôµ
+I
+java:S1444^"3Make this "public static USER_REMEMBER" field final(Š¾…«
+„
+java:S1104Ì"hMake CART_COLUMN_PRODUCT_QUANTITY a static final constant or non-public and provide accessors if needed.(éË¹„ıÿÿÿÿ
+Q
+java:S1118ñ":Add a private constructor to hide the implicit public one.(¨Ù¿
+g
+java:S1104\"QMake LOGIN a static final constant or non-public and provide accessors if needed.(¸ìèõ
+n
+java:S1104©"RMake FILTER a static final constant or non-public and provide accessors if needed.(§Æú›ıÿÿÿÿ
+U
+java:S1118w":Add a private constructor to hide the implicit public one.(ë€ö¾şÿÿÿÿ
+S
+java:S1444¢"7Make this "public static CONTINUE_REQUIRED" field final(”Ï éùÿÿÿÿ
+p
+java:S3008"TRename this field "VIDEO_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï£˜ùÿÿÿÿ
+z
+java:S3008É"cRename this field "CART_COLUMN_PAYMENT_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùß²
+n
+java:S1104œ"WMake POST_DETAIL a static final constant or non-public and provide accessors if needed.(øË÷é
+q
+java:S3008™"URename this field "CONNECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÅ×ÿÿÿÿÿ
+q
+java:S1104
+"VMake baseLatLng a static final constant or non-public and provide accessors if needed.(­Ô©ºøÿÿÿÿ
+t
+java:S3008¥"XRename this field "RECIPE_DETAIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²µ»´ÿÿÿÿÿ
+o
+java:S1104`"YMake USER_PASSWORD a static final constant or non-public and provide accessors if needed.(ˆ¹ÅÕ
+H
+java:S1444—"1Make this "public static PLAYLIST_ID" field final(Ìø«„
+P
+java:S1118F":Add a private constructor to hide the implicit public one.(ûÇ•
+m
+java:S1104¯"VMake TRIP_PRICE a static final constant or non-public and provide accessors if needed.(Ú ğ‹
+q
+java:S1104ô"UMake POST_TYPE a static final constant or non-public and provide accessors if needed.(€®ÚÓÿÿÿÿÿ
+N
+java:S1444ß"2Make this "public static dateFormat12" field final(Š››­şÿÿÿÿ
+p
+java:S1104d"UMake NEWS_FEED a static final constant or non-public and provide accessors if needed.(¼««ˆøÿÿÿÿ
+q
+java:S1104¨"ZMake FEATURED_PLACE a static final constant or non-public and provide accessors if needed.(¼ÙÆ
+[
+java:S1444Ä"?Make this "public static CART_COLUMN_RESTAURANT_ID" field final(Ï‰ŸÃúÿÿÿÿ
+p
+java:S3008“"TRename this field "FILE_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÄÄÍûÿÿÿÿ
+m
+java:S1104,"WMake PRIVACY_URL a static final constant or non-public and provide accessors if needed.(øùñÌ
+F
+java:S1444ã"/Make this "public static dayFormat" field final(Ì•Ú
+k
+java:S1104"TMake CATEGORY a static final constant or non-public and provide accessors if needed.(¹ÎÛá
+O
+java:S1444ö"3Make this "public static STANDARD_POST" field final(Ñ•Á¼ÿÿÿÿÿ
+q
+java:S1104e"VMake NIGHT_MODE a static final constant or non-public and provide accessors if needed.(õ˜ÌÍúÿÿÿÿ
+H
+java:S1444œ"1Make this "public static POST_DETAIL" field final(øË÷é
+l
+java:S30081"VRename this field "PICTURE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÌæ
+m
+java:S11041"WMake PICTURE_URL a static final constant or non-public and provide accessors if needed.(µÌæ
+v
+java:S3008|"`Rename this field "REQ_CODE_SPEECH_INPUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âïüÎ
+„
+java:S3008Ğ"hRename this field "CART_COLUMN_PRODUCT_ATTRIBUTE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò—îíÿÿÿÿÿ
+K
+java:S1444ô"/Make this "public static POST_TYPE" field final(€®ÚÓÿÿÿÿÿ
+u
+java:S3008<"ZRename this field "MAP_BOX_API_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ŒÎéüÿÿÿÿ
+q
+java:S1104¡"ZMake LOGIN_REQUIRED a static final constant or non-public and provide accessors if needed.(„Áï
+K
+java:S1444
+"0Make this "public static baseLatLng" field final(­Ô©ºøÿÿÿÿ
+o
+java:S1104i"TMake BIO_TYPE a static final constant or non-public and provide accessors if needed.(ŠÃÏÆùÿÿÿÿ
+p
+java:S3008"YRename this field "REQUEST_OBJECT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôµ
+n
+java:S3008p"SRename this field "ORDER_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¼õóúÿÿÿÿ
+p
+java:S1104ó"YMake CATEGORY_TYPE a static final constant or non-public and provide accessors if needed.(ï•ı¶
+r
+java:S3008"VRename this field "CATEGORY_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÖµÚüÿÿÿÿ
+[
+java:S1444Í"DMake this "public static CART_COLUMN_PRODUCT_BASE_PRICE" field final(Ëùæ×
+„
+java:S1104Ç"hMake CART_COLUMN_DELIVERY_CHARGES a static final constant or non-public and provide accessors if needed.(Ú©˜ºúÿÿÿÿ
+n
+java:S3008i"SRename this field "BIO_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÃÏÆùÿÿÿÿ
+w
+java:S1104|"aMake REQ_CODE_SPEECH_INPUT a static final constant or non-public and provide accessors if needed.(âïüÎ
+M
+java:S1444Ş"6Make this "public static timeDateFormat12" field final(”î˜ÿ
+o
+java:S3008ó"XRename this field "CATEGORY_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï•ı¶
+[
+java:S1444Å"EMake this "public static CART_COLUMN_RESTAURANT_LATITUDE" field final(¬ì¢[
+p
+java:S3008Â"YRename this field "CART_COLUMN_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Ğ»¤
+w
+java:S3008€"[Rename this field "REQUEST_LOCATION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÅ§Òüÿÿÿÿ
+~
+java:S1104x"cMake PERMISSION_REQUEST_CODE a static final constant or non-public and provide accessors if needed.(øÌ—ÿÿÿÿÿ
+
+java:S1104„"hMake REQUEST_CODE_SELECT_CAR_TYPE a static final constant or non-public and provide accessors if needed.(Éá›µ
+X
+java:S1444Ï"AMake this "public static CART_COLUMN_CURRENCY_SYMBOL" field final(½„©ş
+r
+java:S1104™"VMake CONNECTION a static final constant or non-public and provide accessors if needed.(µÅ×ÿÿÿÿÿ
+x
+java:S1104Ú"\Make timeDateFormat24 a static final constant or non-public and provide accessors if needed.(ä–½ğùÿÿÿÿ
+i
+java:S3008."SRename this field "BASE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øªƒ’
+l
+java:S3008~"VRename this field "COUPON_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ş„¥
+H
+java:S1444>"2Make this "public static DEVICE_TOKEN" field final(¯æ‰ö
+P
+java:S1444<"5Make this "public static MAP_BOX_API_KEY" field final(¬ŒÎéüÿÿÿÿ
+h
+java:S3008]"RRename this field "USER_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é‹öê
+m
+java:S1104~"WMake COUPON_CODE a static final constant or non-public and provide accessors if needed.(¦ş„¥
+M
+java:S1444["2Make this "public static FIRST_LAUNCH" field final(ÕÙú›üÿÿÿÿ
+Q
+java:S1444½":Make this "public static FAVOURITES_COLUMN_ID" field final(šùÙ¿
+U
+java:S1444È"?Make this "public static CART_COLUMN_DELIVERY_TIME" field final(Û›·
+k
+java:S1104X"UMake PREF_TAGS a static final constant or non-public and provide accessors if needed.(¤·ÁÃ
+
+java:S3008¿"jRename this field "FAVOURITES_COLUMN_RESTAURANT_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÓÀ
+q
+java:S3008õ"URename this field "REFER_USER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¨ó±úÿÿÿÿ
+G
+java:S1444¯"0Make this "public static TRIP_PRICE" field final(Ú ğ‹
+U
+java:S1444="?Make this "public static isFacebookHashKeyRequired" field final(‰’ËÂ
+n
+java:S1104•"WMake ARTIST_NAME a static final constant or non-public and provide accessors if needed.(ĞÕ¨¶
+q
+java:S1104‘"UMake POST_TYPE a static final constant or non-public and provide accessors if needed.(ÁÚ§çıÿÿÿÿ
+e
+java:S1104j"OMake UID a static final constant or non-public and provide accessors if needed.(œÜ¢Ş
+^
+java:S1444Ì"BMake this "public static CART_COLUMN_PRODUCT_QUANTITY" field final(éË¹„ıÿÿÿÿ
+D
+java:S2786 ")Remove this redundant "static" qualifier.(î¹È•úÿÿÿÿ
+b
+java:S1444Æ"FMake this "public static CART_COLUMN_RESTAURANT_LONGITUDE" field final(ÂîÑ¬úÿÿÿÿ
+n
+java:S1104§"WMake FEATURED_ID a static final constant or non-public and provide accessors if needed.(Ä¬„
+v
+java:S3008Á"ZRename this field "CART_TABLE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üñ¸úıÿÿÿÿ
+x
+java:S1104g"]Make PUSH_NOTIFICATION a static final constant or non-public and provide accessors if needed.(„€Î ùÿÿÿÿ
+u
+java:S1104z"_Make REQUEST_CODE_CAMERA a static final constant or non-public and provide accessors if needed.(™ù˜â
+x
+java:S1104"aMake SEARCH_SPECIFIC_PLACE a static final constant or non-public and provide accessors if needed.(¬÷•›
+o
+java:S1104Û"XMake dateFormat24 a static final constant or non-public and provide accessors if needed.(şÉŠú
+f
+java:S3008­"ORename this field "USER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õñå
+D
+java:S1444’"-Make this "public static POST_ID" field final(üÄê¥
+t
+java:S1104ß"XMake dateFormat12 a static final constant or non-public and provide accessors if needed.(Š››­şÿÿÿÿ
+‚
+java:S3008Ñ"kRename this field "CART_COLUMN_SPECIAL_INSTRUCTIONS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ôÄÈ
+€
+java:S1104ƒ"dMake REQUEST_CODE_SELECT_CITY a static final constant or non-public and provide accessors if needed.(úŒôãøÿÿÿÿ
+P
+java:S1118Ù":Add a private constructor to hide the implicit public one.(®ÇÍk
+D
+java:S1444Y".Make this "public static NEXT_URL" field final(Ìéô¢
+L
+java:S1444â"0Make this "public static hourFormat" field final(Ö£ÆÅûÿÿÿÿ
+J
+java:S1444›"3Make this "public static ARTIST_DETAIL" field final(¾¨ÿª
+R
+java:S1444Ú"6Make this "public static timeDateFormat24" field final(ä–½ğùÿÿÿÿ
+{
+java:S1104É"dMake CART_COLUMN_PAYMENT_TYPE a static final constant or non-public and provide accessors if needed.(Ùß²
+I
+java:S1444Z".Make this "public static POSITION" field final(µ“á¨şÿÿÿÿ
+P
+java:S1444a"5Make this "public static USER_FIRST_NAME" field final(œñåûÿÿÿÿ
+o
+java:S1104p"TMake ORDER_ID a static final constant or non-public and provide accessors if needed.(¤¼õóúÿÿÿÿ
+u
+java:S3008a"ZRename this field "USER_FIRST_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñåûÿÿÿÿ
+K
+java:S1444e"0Make this "public static NIGHT_MODE" field final(õ˜ÌÍúÿÿÿÿ
+
+java:S1104¾"eMake FAVOURITES_COLUMN_USER_ID a static final constant or non-public and provide accessors if needed.(šÜı¢ıÿÿÿÿ
+K
+java:S1444‘"/Make this "public static POST_TYPE" field final(ÁÚ§çıÿÿÿÿ
+O
+java:S1444z"9Make this "public static REQUEST_CODE_CAMERA" field final(™ù˜â
+X
+java:S1444¤"<Make this "public static RECIPE_FRAGMENT_DETAIL" field final(¥Œå¾úÿÿÿÿ
+H
+java:S1444§"1Make this "public static FEATURED_ID" field final(Ä¬„
+[
+java:S1444Î"?Make this "public static CART_COLUMN_PRODUCT_PRICE" field final(Ñß¢Ïÿÿÿÿÿ
+
+java:S1104Å"kMake CART_COLUMN_RESTAURANT_LATITUDE a static final constant or non-public and provide accessors if needed.(¬ì¢[
+s
+java:S1104["XMake FIRST_LAUNCH a static final constant or non-public and provide accessors if needed.(ÕÙú›üÿÿÿÿ
+E
+java:S1444X"/Make this "public static PREF_TAGS" field final(¤·ÁÃ
+R
+java:S1444g"7Make this "public static PUSH_NOTIFICATION" field final(„€Î ùÿÿÿÿ
+u
+java:S3008Ã"^Rename this field "CART_COLUMN_USER_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Îü˜
+u
+java:S1104ö"YMake STANDARD_POST a static final constant or non-public and provide accessors if needed.(Ñ•Á¼ÿÿÿÿÿ
+}
+java:S3008Ï"fRename this field "CART_COLUMN_CURRENCY_SYMBOL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½„©ş
+u
+java:S3008¦"YRename this field "SEARCH_KEYWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä»‰Ôûÿÿÿÿ
+H
+java:S1444£"1Make this "public static BACK_ACTION" field final(—œÜº
+l
+java:S1104Ÿ"UMake BOOK_TYPE a static final constant or non-public and provide accessors if needed.(ËË«­
+
+java:S1104‚"hMake REQUEST_CODE_SELECT_LOCATION a static final constant or non-public and provide accessors if needed.(Ÿª’¼
+~
+java:S1104Ê"bMake CART_COLUMN_PRODUCT_ID a static final constant or non-public and provide accessors if needed.(Ø ÃÜüÿÿÿÿ
+M
+java:S1444+"7Make this "public static GOOGLE_DRIVE_LINK" field final(ŒÍ¿ª
+v
+java:S1104a"[Make USER_FIRST_NAME a static final constant or non-public and provide accessors if needed.(œñåûÿÿÿÿ
+w
+java:S1104½"`Make FAVOURITES_COLUMN_ID a static final constant or non-public and provide accessors if needed.(šùÙ¿
+l
+java:S3008,"VRename this field "PRIVACY_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øùñÌ
+r
+java:S3008["WRename this field "FIRST_LAUNCH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÙú›üÿÿÿÿ
+‚
+java:S1104¿"kMake FAVOURITES_COLUMN_RESTAURANT_ID a static final constant or non-public and provide accessors if needed.(ÇÓÀ
+A
+java:S1444­"*Make this "public static USER" field final(Õñå
+L
+java:S1444™"0Make this "public static CONNECTION" field final(µÅ×ÿÿÿÿÿ
+^
+java:S1444Ç"BMake this "public static CART_COLUMN_DELIVERY_CHARGES" field final(Ú©˜ºúÿÿÿÿ
+J
+java:S1444d"/Make this "public static NEWS_FEED" field final(¼««ˆøÿÿÿÿ
+R
+java:S1444";Make this "public static SEARCH_SPECIFIC_PLACE" field final(¬÷•›
+s
+java:S1104Ş"\Make timeDateFormat12 a static final constant or non-public and provide accessors if needed.(”î˜ÿ
+H
+java:S14440"2Make this "public static REST_API_URL" field final(æºÒ§
+J
+java:S1444k"/Make this "public static ARTIST_ID" field final(¡îîëøÿÿÿÿ
+p
+java:S1104 "TMake ON_BOARD a static final constant or non-public and provide accessors if needed.(Œ’—¦şÿÿÿÿ
+Q
+java:S1444|";Make this "public static REQ_CODE_SPEECH_INPUT" field final(âïüÎ
+{
+java:S1104"`Make REQUEST_CODE_PICTURE a static final constant or non-public and provide accessors if needed.(™Ê¹¯ÿÿÿÿÿ
+o
+java:S1104ì"XMake success_code a static final constant or non-public and provide accessors if needed.(®Õú·
+T
+java:S1444}"9Make this "public static PRODUCT_DETAIL_CODE" field final(Ä»üêùÿÿÿÿ
+i
+java:S3008Y"SRename this field "NEXT_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìéô¢
+t
+java:S1104f"YMake DOWNLOAD_WIFI a static final constant or non-public and provide accessors if needed.(Ú›âúÿÿÿÿ
+}
+java:S3008Ê"aRename this field "CART_COLUMN_PRODUCT_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø ÃÜüÿÿÿÿ
+K
+java:S1444±"5Make this "public static LOCATION_DETAIL" field final(´¸ˆR
+r
+java:S3008o"WRename this field "RIDER_STATUS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²è„®øÿÿÿÿ
+O
+java:S1444¥"3Make this "public static RECIPE_DETAIL" field final(²µ»´ÿÿÿÿÿ
+s
+java:S1104c"XMake USER_PICTURE a static final constant or non-public and provide accessors if needed.(Ã³›èıÿÿÿÿ
+U
+java:S1444É">Make this "public static CART_COLUMN_PAYMENT_TYPE" field final(Ùß²
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚àµ5
+{
+java:S1104È"eMake CART_COLUMN_DELIVERY_TIME a static final constant or non-public and provide accessors if needed.(Û›·
+j
+java:S1104’"SMake POST_ID a static final constant or non-public and provide accessors if needed.(üÄê¥
+s
+java:S1104ò"WMake AUTHOR_TYPE a static final constant or non-public and provide accessors if needed.(‘Æ€óøÿÿÿÿ
+n
+java:S3008Z"SRename this field "POSITION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ“á¨şÿÿÿÿ
+k
+java:S3008h"URename this field "LOGIN_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¬øÂ
+}
+java:S1104¼"aMake FAVOURITES_TABLE_NAME a static final constant or non-public and provide accessors if needed.(ñæ¯•øÿÿÿÿ
+€
+java:S3008Ä"dRename this field "CART_COLUMN_RESTAURANT_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï‰ŸÃúÿÿÿÿ
+A
+java:S1444\"+Make this "public static LOGIN" field final(¸ìèõ
+t
+java:S1104«"XMake ORDER_DETAIL a static final constant or non-public and provide accessors if needed.(‰ÆùÒıÿÿÿÿ
+p
+java:S3008¡"YRename this field "LOGIN_REQUIRED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Áï
+S
+java:S1444"7Make this "public static RESTAURANT_DETAIL" field final(—«ªïşÿÿÿÿ
+O
+java:S1444"3Make this "public static FUNCTIONALITY" field final(³ÏÇ¹üÿÿÿÿ
+D
+java:S2786"")Remove this redundant "static" qualifier.(Ø¡í€øÿÿÿÿ
+l
+java:S3008¯"URename this field "TRIP_PRICE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú ğ‹
+
+java:S3008Ë"cRename this field "CART_COLUMN_PRODUCT_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ææˆ”ÿÿÿÿÿ
+€
+java:S1104Ë"dMake CART_COLUMN_PRODUCT_NAME a static final constant or non-public and provide accessors if needed.(ææˆ”ÿÿÿÿÿ
+r
+java:S1104â"VMake hourFormat a static final constant or non-public and provide accessors if needed.(Ö£ÆÅûÿÿÿÿ
+t	java:S115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(î¹È•úÿÿÿÿ
+s
+java:S1104"WMake CATEGORY_ID a static final constant or non-public and provide accessors if needed.(ÎÖµÚüÿÿÿÿ
+N
+java:S1444f"3Make this "public static DOWNLOAD_WIFI" field final(Ú›âúÿÿÿÿ
+q
+java:S1104±"[Make LOCATION_DETAIL a static final constant or non-public and provide accessors if needed.(´¸ˆR
+H
+java:S1444©",Make this "public static FILTER" field final(§Æú›ıÿÿÿÿ
+q
+java:S3008²"ZRename this field "WAITING_CHARGES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şá’ã
+m
+java:S3008§"VRename this field "FEATURED_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¬„
+p
+java:S3008e"URename this field "NIGHT_MODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ˜ÌÍúÿÿÿÿ
+v
+java:S3008½"_Rename this field "FAVOURITES_COLUMN_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šùÙ¿
+p
+java:S3008ø"TRename this field "URL_VIDEO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óµÇËşÿÿÿÿ
+M
+java:S1444o"2Make this "public static RIDER_STATUS" field final(²è„®øÿÿÿÿ
+m
+java:S30080"WRename this field "REST_API_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æºÒ§
+P
+java:S1118W":Add a private constructor to hide the implicit public one.(ùş“Ô
+[
+java:S1444¾"?Make this "public static FAVOURITES_COLUMN_USER_ID" field final(šÜı¢ıÿÿÿÿ
+n
+java:S11040"XMake REST_API_URL a static final constant or non-public and provide accessors if needed.(æºÒ§
+q
+java:S1104"UMake VIDEO_URL a static final constant or non-public and provide accessors if needed.(Ï£˜ùÿÿÿÿ
+
+java:S1104Ä"eMake CART_COLUMN_RESTAURANT_ID a static final constant or non-public and provide accessors if needed.(Ï‰ŸÃúÿÿÿÿ
+D
+java:S2786")Remove this redundant "static" qualifier.(ÆÖàÎıÿÿÿÿ
+l
+java:S3008/"QRename this field "FOLDER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëä¦íûÿÿÿÿ
+m
+java:S3008•"VRename this field "ARTIST_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÕ¨¶
+_
+java:S1444Ğ"CMake this "public static CART_COLUMN_PRODUCT_ATTRIBUTE" field final(Ò—îíÿÿÿÿÿ
+v
+java:S1104Ã"_Make CART_COLUMN_USER_ID a static final constant or non-public and provide accessors if needed.(÷Îü˜
+U
+java:S1444y":Make this "public static REQUEST_CODE_GALLERY" field final(ÀÂ¸Ÿùÿÿÿÿ
+z
+java:S1104}"_Make PRODUCT_DETAIL_CODE a static final constant or non-public and provide accessors if needed.(Ä»üêùÿÿÿÿ
+
+java:S1104ä"cMake internationalTimeFormat a static final constant or non-public and provide accessors if needed.(ê¥™ëøÿÿÿÿ
+x
+java:S3008¢"\Rename this field "CONTINUE_REQUIRED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Ï éùÿÿÿÿ
+K
+java:S1444¡"4Make this "public static LOGIN_REQUIRED" field final(„Áï
+G
+java:S14441"1Make this "public static PICTURE_URL" field final(µÌæ
+w
+java:S1104Á"[Make CART_TABLE_NAME a static final constant or non-public and provide accessors if needed.(üñ¸úıÿÿÿÿ
+j
+java:S3008X"TRename this field "PREF_TAGS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤·ÁÃ
+u
+java:S1104b"ZMake USER_LAST_NAME a static final constant or non-public and provide accessors if needed.(•ñòÕøÿÿÿÿ
+N
+java:S1444«"2Make this "public static ORDER_DETAIL" field final(‰ÆùÒıÿÿÿÿ
+q
+java:S1104“"UMake FILE_PATH a static final constant or non-public and provide accessors if needed.(„ÄÄÍûÿÿÿÿ
+F
+java:S1444h"0Make this "public static LOGIN_TYPE" field final(Ë¬øÂ
+g
+java:S1104­"PMake USER a static final constant or non-public and provide accessors if needed.(Õñå
+r
+java:S3008+"\Rename this field "GOOGLE_DRIVE_LINK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÍ¿ª
+U
+java:S1118*":Add a private constructor to hide the implicit public one.(¸´‡¦øÿÿÿÿ
+‚
+java:S3008…"kRename this field "REQUEST_CODE_SELECT_CAR_CATEGORY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âø­–
+O
+java:S1444b"4Make this "public static USER_LAST_NAME" field final(•ñòÕøÿÿÿÿ
+k
+java:S3008n"URename this field "USER_PHONE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ä˜Ê
+~
+java:S3008‚"gRename this field "REQUEST_CODE_SELECT_LOCATION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿª’¼
+o
+java:S3008¬"SRename this field "CHATTING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ğü¯ûÿÿÿÿ
+P
+java:S1444¦"4Make this "public static SEARCH_KEYWORD" field final(ä»‰Ôûÿÿÿÿ
+I
+java:S1444ì"2Make this "public static success_code" field final(®Õú·
+?
+java:S2786")Remove this redundant "static" qualifier.(‘‚»™
+v
+java:S1104¦"ZMake SEARCH_KEYWORD a static final constant or non-public and provide accessors if needed.(ä»‰Ôûÿÿÿÿ
+f
+java:S3008\"PRename this field "LOGIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ìèõ
+i
+java:S3008’"RRename this field "POST_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÄê¥
+t
+java:S1104÷"XMake SERVER_VIDEO a static final constant or non-public and provide accessors if needed.(Áçø¢şÿÿÿÿ
+}
+java:S3008¤"aRename this field "RECIPE_FRAGMENT_DETAIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Œå¾úÿÿÿÿ
+Z
+java:S1444Ë">Make this "public static CART_COLUMN_PRODUCT_NAME" field final(ææˆ”ÿÿÿÿÿ
+z
+java:S3008y"_Rename this field "REQUEST_CODE_GALLERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÂ¸Ÿùÿÿÿÿ
+r
+java:S1104²"[Make WAITING_CHARGES a static final constant or non-public and provide accessors if needed.(şá’ã
+ƒ
+java:S1104Ñ"lMake CART_COLUMN_SPECIAL_INSTRUCTIONS a static final constant or non-public and provide accessors if needed.( ôÄÈ
+s
+java:S1104š"WMake ARTIST_WORK a static final constant or non-public and provide accessors if needed.(ÄáÌøÿÿÿÿ
+v
+java:S1104<"[Make MAP_BOX_API_KEY a static final constant or non-public and provide accessors if needed.(¬ŒÎéüÿÿÿÿ
+F
+java:S1444n"0Make this "public static USER_PHONE" field final(¥Ä˜Ê
+B
+java:S1444®"+Make this "public static RIDER" field final(ïàÂ£
+p
+java:S1104›"YMake ARTIST_DETAIL a static final constant or non-public and provide accessors if needed.(¾¨ÿª
+
+java:S3008ƒ"cRename this field "REQUEST_CODE_SELECT_CITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úŒôãøÿÿÿÿ
+L
+java:S1444õ"0Make this "public static REFER_USER" field final(œ¨ó±úÿÿÿÿ
+K
+java:S1444"/Make this "public static VIDEO_URL" field final(Ï£˜ùÿÿÿÿ
+G
+java:S1444,"1Make this "public static PRIVACY_URL" field final(øùñÌ
+K
+java:S1444ø"/Make this "public static URL_VIDEO" field final(óµÇËşÿÿÿÿ
+y
+java:S1104"]Make RESTAURANT_DETAIL a static final constant or non-public and provide accessors if needed.(—«ªïşÿÿÿÿ
+n
+java:S1104à"XMake timeFormat12 a static final constant or non-public and provide accessors if needed.(¬¿õ
+t
+java:S3008z"^Rename this field "REQUEST_CODE_CAMERA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ù˜â
+s
+java:S1104+"]Make GOOGLE_DRIVE_LINK a static final constant or non-public and provide accessors if needed.(ŒÍ¿ª
+t
+java:S1104Ü"XMake timeFormat24 a static final constant or non-public and provide accessors if needed.(ÌÜÄ”ùÿÿÿÿ
+{
+java:S1104y"`Make REQUEST_CODE_GALLERY a static final constant or non-public and provide accessors if needed.(ÀÂ¸Ÿùÿÿÿÿ
+U
+java:S1118O":Add a private constructor to hide the implicit public one.(ÜĞú˜ıÿÿÿÿ
+K
+java:S1444¨"4Make this "public static FEATURED_PLACE" field final(¼ÙÆ
+k
+java:S1104–"TMake PLAYLIST a static final constant or non-public and provide accessors if needed.(Œ¡ªõ
+w
+java:S3008g"\Rename this field "PUSH_NOTIFICATION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„€Î ùÿÿÿÿ
+T
+java:S1444{"9Make this "public static GOOGLE_SIGN_IN_CODE" field final(ÇİÊ“şÿÿÿÿ
+m
+java:S3008£"VRename this field "BACK_ACTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—œÜº
+i
+java:S1104]"SMake USER_ID a static final constant or non-public and provide accessors if needed.(é‹öê
+O
+java:S1444ª"3Make this "public static COUPON_DETAIL" field final(ñİôşÿÿÿÿ
+}
+java:S3008x"bRename this field "PERMISSION_REQUEST_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÌ—ÿÿÿÿÿ
+q
+java:S1104”"UMake ARTIST_ID a static final constant or non-public and provide accessors if needed.(¡îîëøÿÿÿÿ
+Z
+java:S1444ƒ">Make this "public static REQUEST_CODE_SELECT_CITY" field final(úŒôãøÿÿÿÿ
+K
+java:S1444“"/Make this "public static FILE_PATH" field final(„ÄÄÍûÿÿÿÿ
+|
+java:S3008¼"`Rename this field "FAVOURITES_TABLE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñæ¯•øÿÿÿÿ
+W
+java:S1444¼";Make this "public static FAVOURITES_TABLE_NAME" field final(ñæ¯•øÿÿÿÿ
+Q
+java:S1444Á"5Make this "public static CART_TABLE_NAME" field final(üñ¸úıÿÿÿÿ
+x
+java:S3008"\Rename this field "RESTAURANT_DETAIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—«ªïşÿÿÿÿ
+€
+java:S3008Å"jRename this field "CART_COLUMN_RESTAURANT_LATITUDE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ì¢[
+€
+java:S3008Î"dRename this field "CART_COLUMN_PRODUCT_PRICE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñß¢Ïÿÿÿÿÿ
+Y
+java:S1444‚"BMake this "public static REQUEST_CODE_SELECT_LOCATION" field final(Ÿª’¼
+?
+java:S2786")Remove this redundant "static" qualifier.(Ù÷»
+~
+java:S1104¤"bMake RECIPE_FRAGMENT_DETAIL a static final constant or non-public and provide accessors if needed.(¥Œå¾úÿÿÿÿ
+m
+java:S3008©"QRename this field "FILTER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Æú›ıÿÿÿÿ
+Y
+java:S1444ä"=Make this "public static internationalTimeFormat" field final(ê¥™ëøÿÿÿÿ
+M
+java:S1444ò"1Make this "public static AUTHOR_TYPE" field final(‘Æ€óøÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Ø¡²›ÿÿÿÿÿ
+`
+java:S1124m"EReorder the modifiers to comply with the Java Language Specification.(ÄôÀÎüÿÿÿÿ
+‡
+java:S3008Æ"kRename this field "CART_COLUMN_RESTAURANT_LONGITUDE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂîÑ¬úÿÿÿÿ
+m
+java:S3008œ"VRename this field "POST_DETAIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øË÷é
+h
+java:S1104®"QMake RIDER a static final constant or non-public and provide accessors if needed.(ïàÂ£
+
+java:S1104Î"eMake CART_COLUMN_PRODUCT_PRICE a static final constant or non-public and provide accessors if needed.(Ñß¢Ïÿÿÿÿÿ
+J
+java:S1444˜"3Make this "public static PLAYLIST_NAME" field final(Ò˜úÀ
+\
+java:S1444¿"EMake this "public static FAVOURITES_COLUMN_RESTAURANT_ID" field final(ÇÓÀ
+N
+java:S1444÷"2Make this "public static SERVER_VIDEO" field final(Áçø¢şÿÿÿÿ
+p
+java:S3008‘"TRename this field "POST_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÚ§çıÿÿÿÿ
+€
+java:S3008¾"dRename this field "FAVOURITES_COLUMN_USER_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÜı¢ıÿÿÿÿ
+J
+java:S1444¬".Make this "public static CHATTING" field final(©ğü¯ûÿÿÿÿ
+L
+java:S1444²"5Make this "public static WAITING_CHARGES" field final(şá’ã
+t
+java:S3008ö"XRename this field "STANDARD_POST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ•Á¼ÿÿÿÿÿ
+P
+java:S1444Ã"9Make this "public static CART_COLUMN_USER_ID" field final(÷Îü˜
+r
+java:S3008c"WRename this field "USER_PICTURE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã³›èıÿÿÿÿ
+o
+java:S3008›"XRename this field "ARTIST_DETAIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¨ÿª
+t
+java:S3008ª"XRename this field "COUPON_DETAIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñİôşÿÿÿÿ
+x
+java:S1104€"\Make REQUEST_LOCATION a static final constant or non-public and provide accessors if needed.(øÅ§Òüÿÿÿÿ
+O
+java:S1444P"4Make this "public static DEFAULT_RADIUS" field final(µÂèâûÿÿÿÿ
+g
+java:S3008®"PRename this field "RIDER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïàÂ£
+?
+java:S1444j")Make this "public static UID" field final(œÜ¢Ş
+J
+java:S1444 ".Make this "public static ON_BOARD" field final(Œ’—¦şÿÿÿÿ
+u
+java:S1104"YMake FUNCTIONALITY a static final constant or non-public and provide accessors if needed.(³ÏÇ¹üÿÿÿÿ
+j
+java:S1104Y"TMake NEXT_URL a static final constant or non-public and provide accessors if needed.(Ìéô¢
+o
+java:S1104^"YMake USER_REMEMBER a static final constant or non-public and provide accessors if needed.(Š¾…«
+p
+java:S3008±"ZRename this field "LOCATION_DETAIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¸ˆR
+{
+java:S1104="eMake isFacebookHashKeyRequired a static final constant or non-public and provide accessors if needed.(‰’ËÂ
+V
+java:S1118¹":Add a private constructor to hide the implicit public one.(‘Óüÿÿÿÿ
+E
+java:S1444–".Make this "public static PLAYLIST" field final(Œ¡ªõ
+n
+java:S1104—"WMake PLAYLIST_ID a static final constant or non-public and provide accessors if needed.(Ìø«„
+l
+java:S1104n"VMake USER_PHONE a static final constant or non-public and provide accessors if needed.(¥Ä˜Ê
+X
+java:S1444Ê"<Make this "public static CART_COLUMN_PRODUCT_ID" field final(Ø ÃÜüÿÿÿÿ
+N
+java:S1444Ü"2Make this "public static timeFormat24" field final(ÌÜÄ”ùÿÿÿÿ
+M
+java:S1444š"1Make this "public static ARTIST_WORK" field final(ÄáÌøÿÿÿÿ
+z
+java:S1104{"_Make GOOGLE_SIGN_IN_CODE a static final constant or non-public and provide accessors if needed.(ÇİÊ“şÿÿÿÿ
+y
+java:S3008}"^Rename this field "PRODUCT_DETAIL_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä»üêùÿÿÿÿ
+s
+java:S3008÷"WRename this field "SERVER_VIDEO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áçø¢şÿÿÿÿ
+j
+java:S3008–"SRename this field "PLAYLIST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¡ªõ
+G
+java:S1444~"1Make this "public static COUPON_CODE" field final(¦ş„¥
+m
+java:S3008>"WRename this field "DEVICE_TOKEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯æ‰ö
+l
+java:S1104h"VMake LOGIN_TYPE a static final constant or non-public and provide accessors if needed.(Ë¬øÂ
+u
+java:S1104ª"YMake COUPON_DETAIL a static final constant or non-public and provide accessors if needed.(ñİôşÿÿÿÿ
+ƒ
+java:S1104…"lMake REQUEST_CODE_SELECT_CAR_CATEGORY a static final constant or non-public and provide accessors if needed.(Âø­–
+P
+java:S1118Œ":Add a private constructor to hide the implicit public one.(†Û¼v
+w
+java:S3008"`Rename this field "SEARCH_SPECIFIC_PLACE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬÷•›
+u
+java:S1104P"ZMake DEFAULT_RADIUS a static final constant or non-public and provide accessors if needed.(µÂèâûÿÿÿÿ
+H
+java:S1444•"1Make this "public static ARTIST_NAME" field final(ĞÕ¨¶
+n
+java:S1104£"WMake BACK_ACTION a static final constant or non-public and provide accessors if needed.(—œÜº
+l
+java:S1104ã"UMake dayFormat a static final constant or non-public and provide accessors if needed.(Ì•Ú
+X
+java:S1444x"=Make this "public static PERMISSION_REQUEST_CODE" field final(øÌ—ÿÿÿÿÿ
+U
+java:S1444":Make this "public static REQUEST_CODE_PICTURE" field final(™Ê¹¯ÿÿÿÿÿ
+M
+java:S1444c"2Make this "public static USER_PICTURE" field final(Ã³›èıÿÿÿÿ
+q
+java:S1104Â"ZMake CART_COLUMN_ID a static final constant or non-public and provide accessors if needed.(¨Ğ»¤
+M
+java:S1444"1Make this "public static CATEGORY_ID" field final(ÎÖµÚüÿÿÿÿ
+p
+java:S3008¨"YRename this field "FEATURED_PLACE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÙÆ
+o
+java:S3008d"TRename this field "NEWS_FEED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼««ˆøÿÿÿÿ
+R
+java:S1444€"6Make this "public static REQUEST_LOCATION" field final(øÅ§Òüÿÿÿÿ
+]
+java:S1444Ñ"FMake this "public static CART_COLUMN_SPECIAL_INSTRUCTIONS" field final( ôÄÈ
+ƒ
+java:S3008Ç"gRename this field "CART_COLUMN_DELIVERY_CHARGES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú©˜ºúÿÿÿÿ
+t
+java:S3008"XRename this field "FUNCTIONALITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ÏÇ¹üÿÿÿÿ
+p
+java:S1104˜"YMake PLAYLIST_NAME a static final constant or non-public and provide accessors if needed.(Ò˜úÀ
+C
+java:S1444]"-Make this "public static USER_ID" field final(é‹öê
+s
+java:S3008«"WRename this field "ORDER_DETAIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ÆùÒıÿÿÿÿ
+z
+java:S3008È"dRename this field "CART_COLUMN_DELIVERY_TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û›·
+p
+java:S3008ô"TRename this field "POST_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€®ÚÓÿÿÿÿÿ
+m
+java:S1104í"VMake error_code a static final constant or non-public and provide accessors if needed.(ı”È±
+~
+java:S1104Ï"gMake CART_COLUMN_CURRENCY_SYMBOL a static final constant or non-public and provide accessors if needed.(½„©ş
+r
+java:S3008ò"VRename this field "AUTHOR_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Æ€óøÿÿÿÿ
+p
+java:S3008_"URename this field "USER_EMAIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÙ¨Çıÿÿÿÿ
+Y
+java:S1444„"BMake this "public static REQUEST_CODE_SELECT_CAR_TYPE" field final(Éá›µ
+y
+java:S1104¢"]Make CONTINUE_REQUIRED a static final constant or non-public and provide accessors if needed.(”Ï éùÿÿÿÿ
+s
+java:S1104o"XMake RIDER_STATUS a static final constant or non-public and provide accessors if needed.(²è„®øÿÿÿÿ
+D
+java:S2786")Remove this redundant "static" qualifier.(¿Ù‘ıÿÿÿÿ
+K
+java:S1444”"/Make this "public static ARTIST_ID" field final(¡îîëøÿÿÿÿ
+?
+java:S2786")Remove this redundant "static" qualifier.(¿¸­
+I
+java:S1444p".Make this "public static ORDER_ID" field final(¤¼õóúÿÿÿÿ
+P
+java:S1118:":Add a private constructor to hide the implicit public one.(ŸÛÀô
+r
+java:S3008š"VRename this field "ARTIST_WORK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄáÌøÿÿÿÿ
+…
+java:S1104Ğ"iMake CART_COLUMN_PRODUCT_ATTRIBUTE a static final constant or non-public and provide accessors if needed.(Ò—îíÿÿÿÿÿ
+o
+java:S1104Z"TMake POSITION a static final constant or non-public and provide accessors if needed.(µ“á¨şÿÿÿÿ
+]
+java:S1444…"FMake this "public static REQUEST_CODE_SELECT_CAR_CATEGORY" field final(Âø­–
+d
+java:S3008j"NRename this field "UID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÜ¢Ş
+r
+java:S1104õ"VMake REFER_USER a static final constant or non-public and provide accessors if needed.(œ¨ó±úÿÿÿÿ
+s
+java:S3008f"XRename this field "DOWNLOAD_WIFI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú›âúÿÿÿÿ
+t
+java:S3008P"YRename this field "DEFAULT_RADIUS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÂèâûÿÿÿÿ
+j
+java:S3008"SRename this field "CATEGORY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ÎÛá

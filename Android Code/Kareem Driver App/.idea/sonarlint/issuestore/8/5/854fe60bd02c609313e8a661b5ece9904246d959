@@ -1,0 +1,38 @@
+
+E
+java:S2093i"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+=
+java:S1481"(Remove this unused "url" local variable.(½Ðó.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(þ–ÔËÿÿÿÿÿ
+=
+java:S1481d"(Remove this unused "url" local variable.(½Ðó.
+O
+java:S1118":Add a private constructor to hide the implicit public one.(óõØs
+N
+java:S1481h"8Remove this unused "CONN_DATA_WAIT_TIME" local variable.(ˆ´ø„
+T
+java:S47198"9Replace charset name argument with StandardCharsets.UTF_8(¢”òÔüÿÿÿÿ
+a
+java:S11928"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(¢”òÔüÿÿÿÿ
+]
+java:S1854h"GRemove this useless assignment to local variable "CONN_DATA_WAIT_TIME".(ˆ´ø„
+Z
+java:S2147Q"DCombine this catch with the one at line 78, which has the same body.(ï­£Ä
+]
+java:S1854g"BRemove this useless assignment to local variable "CONN_WAIT_TIME".(Æ Àåýÿÿÿÿ
+<
+java:S1110("!Remove these useless parentheses.(—‡Ö±ûÿÿÿÿ
+>	java:S108T")Either remove or fill this block of code.(Úîø›
+<
+java:S1110k"!Remove these useless parentheses.(—‡Ö±ûÿÿÿÿ
+N
+java:S1481g"3Remove this unused "CONN_WAIT_TIME" local variable.(Æ Àåýÿÿÿÿ
+\
+java:S2147‰"ECombine this catch with the one at line 134, which has the same body.(ï­£Ä
+T
+java:S4719w"9Replace charset name argument with StandardCharsets.UTF_8(³þ§Ëøÿÿÿÿ
+T
+java:S4719?"9Replace charset name argument with StandardCharsets.UTF_8(³þ§Ëøÿÿÿÿ
+E
+java:S2093&"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+?	java:S108Œ")Either remove or fill this block of code.(Úîø›

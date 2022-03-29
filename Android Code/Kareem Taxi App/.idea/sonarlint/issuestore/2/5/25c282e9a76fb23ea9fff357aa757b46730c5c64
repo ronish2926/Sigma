@@ -1,0 +1,19 @@
+
+v
+java:S1450"[Remove the "featurePager" field and declare it as a local variable in the relevant methods.(Ó•ªðúÿÿÿÿ
+h	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿«ÑÏøÿÿÿÿ
+D
+java:S1068".Remove this unused "prefObject" private field.(ôº¥ò
+s
+java:S1450"XRemove the "layoutTab" field and declare it as a local variable in the relevant methods.(ùÂÿ¥üÿÿÿÿ
+l
+java:S1450"VRemove the "txtMenu" field and declare it as a local variable in the relevant methods.(êÄÞÖ
+s
+java:S1450"XRemove the "viewPager" field and declare it as a local variable in the relevant methods.(åÙ¬Ïûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨½µÌÿÿÿÿÿ
+V	java:S125W"<This block of commented-out lines of code should be removed.(¸Ó÷„øÿÿÿÿ
+t
+java:S1450"YRemove the "management" field and declare it as a local variable in the relevant methods.(‚ú’©üÿÿÿÿ
+I
+java:S1068".Remove this unused "management" private field.(‚ú’©üÿÿÿÿ
+X	java:S110"<This class has 8 parents which is greater than 5 authorized.(¸ÙçÊ8¢ ø‹î.

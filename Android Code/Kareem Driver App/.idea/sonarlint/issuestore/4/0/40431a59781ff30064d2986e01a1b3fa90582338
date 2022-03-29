@@ -1,0 +1,14 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø×úßşÿÿÿÿ
+h	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë´Ùıÿÿÿÿ
+f	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€’Š¤
+h	java:S116"SRename this field "order_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«àÿ­
+h	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°€Í™ıÿÿÿÿ
+k	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°€Í™ıÿÿÿÿ
+k	java:S116"VRename this field "waiting_fee" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂşÃË
+c	java:S100H"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êôä£
+h	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åé»üÿÿÿÿ
+h	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¦°ûÿÿÿÿ
+l	java:S116"WRename this field "payment_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â‡öÖ
+f	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êôä£
+c	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€’Š¤

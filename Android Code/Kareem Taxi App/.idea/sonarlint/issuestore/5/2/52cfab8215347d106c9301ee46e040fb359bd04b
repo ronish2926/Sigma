@@ -1,0 +1,15 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÖ€•
+v
+java:S1450"[Remove the "isCurrentDay" field and declare it as a local variable in the relevant methods.(éèÜŸÿÿÿÿÿ
+z
+java:S1450"_Remove the "simpleDateFormat" field and declare it as a local variable in the relevant methods.(¨Â²×øÿÿÿÿ
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Áç¥õ
+c	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÆƒ¿
+m
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(âÁ¾ñúÿÿÿÿ
+d
+java:S1871¤"MThis branch's code block is the same as the block for the branch on line 151.(çÐ€î
+K
+java:S1068"0Remove this unused "isCurrentDay" private field.(éèÜŸÿÿÿÿÿ

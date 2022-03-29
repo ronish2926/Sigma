@@ -1,0 +1,47 @@
+
+k	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ô²Şıÿÿÿÿ
+f	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ÆõÕ
+k	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¢Ã­ıÿÿÿÿ
+f	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¯¢
+k	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ş¬¥ıÿÿÿÿ
+k	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã”¥êùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ĞÊ©©ıÿÿÿÿ
+f
+java:S1104"PMake from a static final constant or non-public and provide accessors if needed.(ìÁèˆ
+s
+java:S1104"XMake from_address a static final constant or non-public and provide accessors if needed.(ííö¾ùÿÿÿÿ
+i
+java:S1104
+"NMake to a static final constant or non-public and provide accessors if needed.(†ª†øøÿÿÿÿ
+q
+java:S1104"VMake to_address a static final constant or non-public and provide accessors if needed.(«–ÖÖÿÿÿÿÿ
+t
+java:S1104"^Make payment_type_image a static final constant or non-public and provide accessors if needed.(‚ıŒÈ
+s
+java:S1104"]Make payment_type_name a static final constant or non-public and provide accessors if needed.(„÷’À
+v
+java:S1104"[Make ride_type_image a static final constant or non-public and provide accessors if needed.(§Ô«Ôşÿÿÿÿ
+u
+java:S1104"ZMake ride_type_name a static final constant or non-public and provide accessors if needed.(¼Ş¿¥ûÿÿÿÿ
+j
+java:S1104"TMake latitude a static final constant or non-public and provide accessors if needed.(•û—ñ
+k
+java:S1104"UMake longitude a static final constant or non-public and provide accessors if needed.(ÍÍ¸¯
+q	java:S116"WRename this field "from_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ííö¾ùÿÿÿÿ
+o	java:S116"URename this field "to_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«–ÖÖÿÿÿÿÿ
+r	java:S116"]Rename this field "payment_type_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ıŒÈ
+q	java:S116"\Rename this field "payment_type_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„÷’À
+t	java:S116"ZRename this field "ride_type_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ô«Ôşÿÿÿÿ
+s	java:S116"YRename this field "ride_type_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ş¿¥ûÿÿÿÿ
+h	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ™—èşÿÿÿÿ
+h	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ô²Şıÿÿÿÿ
+c	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ƒ¹ô
+c	java:S100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ÆõÕ
+h	java:S100F"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßô®êùÿÿÿÿ
+h	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¢Ã­ıÿÿÿÿ
+h	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥óêíıÿÿÿÿ
+c	java:S100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¯¢
+h	java:S100X"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ»ûáùÿÿÿÿ
+h	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ş¬¥ıÿÿÿÿ
+h	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÔà™øÿÿÿÿ
+h	java:S100e"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã”¥êùÿÿÿÿ

@@ -1,0 +1,120 @@
+
+M
+java:S1068Y"0Remove this unused "favouriteMap" private field.(¢æ‰8Ÿß‡º÷.
+Ÿ
+java:S1186º"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÁïÕÒ8Âí‹º÷.
+g	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùâÌô
+|	java:S116È"ZRename this field "currency_symbol" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´›¾Şûÿÿÿÿ8Ÿß‡º÷.
+X
+java:S1068X"6Remove this unused "favouriteArraylist" private field.(®•¬¹ıÿÿÿÿ8Ÿß‡º÷.
+]
+java:S1068_"@Remove this unused "PLACE_SELECTION_REQUEST_CODE" private field.(ì•¯8Ÿß‡º÷.
+^	java:S125¾"<This block of commented-out lines of code should be removed.(Ô½’ìşÿÿÿÿ8÷‚º÷.
+¤
+java:S1186¦"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(â˜­¿şÿÿÿÿ8Âí‹º÷.
+R
+java:S1068¥"4Remove this unused "captainLongitude" private field.(İêí8Ÿß‡º÷.
+i
+java:S1192í"FDefine a constant instead of duplicating this literal "JSON " 5 times.(¡ÕÍ±üÿÿÿÿ8Ÿß‡º÷.
+z
+java:S1450Ç"\Remove the "currency_name" field and declare it as a local variable in the relevant methods.(¶²´Á8Ÿß‡º÷.
+\
+java:S1155å">Use isEmpty() to check whether the collection is empty or not.(†§à‹8Ÿß‡º÷.
+Ÿ
+java:S1186°"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÀÄŞ’8Âí‹º÷.
+s	java:S117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÎëíüÿÿÿÿ8Ÿß‡º÷.
+a
+java:S3252">Use static access with "android.app.Activity" for "RESULT_OK".(ãİÓÿÿÿÿÿ8Ÿß‡º÷.
+n	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùâÌô8Ÿß‡º÷.
+o	java:S116M"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰“½®ùÿÿÿÿ8Ÿß‡º÷.
+x
+java:S1450«"ZRemove the "layoutNoCar" field and declare it as a local variable in the relevant methods.(®¯¡8Ÿß‡º÷.
+¤
+java:S1186…"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îŠ®†ùÿÿÿÿ8Ç‹º÷.
+R
+java:S1066ë"/Merge this if statement with the enclosing one.(ïü˜Âùÿÿÿÿ8Ÿß‡º÷.
+i
+java:S2184—"FCast one of the operands of this multiplication operation to a "long".(‘‘…åúÿÿÿÿ8Ÿß‡º÷.
+ƒ	java:S116_"gRename this field "PLACE_SELECTION_REQUEST_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì•¯8Ÿß‡º÷.
+p
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(¡é††8Ÿß‡º÷.
+d
+java:S2184š"FCast one of the operands of this multiplication operation to a "long".(°ºñ8Ÿß‡º÷.
+R
+java:S1066ö"/Merge this if statement with the enclosing one.(Ôï—–ùÿÿÿÿ8Ÿß‡º÷.
+n	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı§¬‡8Ÿß‡º÷.
+m	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ß­"8Ÿß‡º÷.
+¤
+java:S1186«"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö£¯ùøÿÿÿÿ8Âí‹º÷.
+\
+java:S3252õ">Use static access with "android.app.Activity" for "RESULT_OK".(ˆğ–ä8Ÿß‡º÷.
+S
+java:S2209õ"5Change this instance-reference to a static reference.(ˆğ–ä8Ÿß‡º÷.
+a
+java:S3252‘">Use static access with "android.app.Activity" for "RESULT_OK".(µáøÿÿÿÿ8Ÿß‡º÷.
+X
+java:S2209‘"5Change this instance-reference to a static reference.(µáøÿÿÿÿ8Ÿß‡º÷.
+Y	java:S125à	"<This block of commented-out lines of code should be removed.(‚ç¾ã8Ÿß‡º÷.
+`
+java:S1126ÿ	"BReplace this if-then-else statement by a single method invocation.(ï”’8Ÿß‡º÷.
+o
+java:S3776³
+"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(İÄÒ8Ÿß‡º÷.
+s	java:S117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ıÉ±ÿÿÿÿÿ8Ÿß‡º÷.
+d
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(Œ¦“ø8‚†‡º÷.
+n	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼õÂ´8Ÿß‡º÷.
+X
+java:S2209"5Change this instance-reference to a static reference.(ãİÓÿÿÿÿÿ8Ÿß‡º÷.
+Y	java:S125“"<This block of commented-out lines of code should be removed.(­Ê€8ÃŒº÷.
+O
+java:S1068Ç"1Remove this unused "currency_name" private field.(¶²´Á8Ÿß‡º÷.
+u	java:S116Ç"XRename this field "currency_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶²´Á8Ÿß‡º÷.
+p
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(ƒ®„¤8Ÿß‡º÷.
+p
+java:S1192„"MDefine a constant instead of duplicating this literal "ride_type_id" 3 times.(‘¢ÿŸúÿÿÿÿ8Ÿß‡º÷.
+Z	java:S107×"=Method has 14 parameters, which is greater than 7 authorized.(ùâÌô8Ÿß‡º÷.
+s	java:S117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¦›¨ûÿÿÿÿ8Ÿß‡º÷.
+s	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İà†Íüÿÿÿÿ8Ÿß‡º÷.
+e
+java:S1192â"IDefine a constant instead of duplicating this literal "latitude" 4 times.(²şó»ıÿÿÿÿ
+n	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùâÌô8Ÿß‡º÷.
+^	java:S125ş"<This block of commented-out lines of code should be removed.(È¯úıÿÿÿÿ8Ÿß‡º÷.
+M
+java:S1068«"/Remove this unused "layoutNoCar" private field.(®¯¡8Ÿß‡º÷.
+m	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ß­"8Ÿß‡º÷.
+i
+java:S2184Ÿ"FCast one of the operands of this multiplication operation to a "long".(“ğò¢şÿÿÿÿ8Ÿß‡º÷.
+\
+java:S1155Õ">Use isEmpty() to check whether the collection is empty or not.(†§à‹8Ÿß‡º÷.
+n	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùâÌô8Ÿß‡º÷.
+m
+java:S1192ã"JDefine a constant instead of duplicating this literal "longitude" 4 times.(œÂ×—ûÿÿÿÿ8Ÿß‡º÷.
+j
+java:S1192á"NDefine a constant instead of duplicating this literal "functionality" 5 times.(ËÜÑ®øÿÿÿÿ
+n	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı§¬‡8Ÿß‡º÷.
+Ÿ
+java:S1186µ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(çÅğÙ8Âí‹º÷.
+Y	java:S125ˆ"<This block of commented-out lines of code should be removed.(Â×Íî8Ÿß‡º÷.
+\
+java:S1155“">Use isEmpty() to check whether the collection is empty or not.(†§à‹8Ÿß‡º÷.
+Q
+java:S1068¤"3Remove this unused "captainLatitude" private field.(ã«»¨8Ÿß‡º÷.
+i
+java:S2184 "FCast one of the operands of this multiplication operation to a "long".(Ï¾†üÿÿÿÿ8Ÿß‡º÷.
+a
+java:S1155Æ">Use isEmpty() to check whether the collection is empty or not.(œÒ‘Àøÿÿÿÿ8Ÿß‡º÷.
+m	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ß­"8Ÿß‡º÷.
+F
+java:S1185£"(Remove this method to simply inherit it.(öÿÕÅ8Ÿß‡º÷.
+n	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùâÌô8Ÿß‡º÷.
+e
+java:S1126Ã
+"BReplace this if-then-else statement by a single method invocation.(Ò½Øüÿÿÿÿ8Ÿß‡º÷.
+x
+java:S1450c"VRemove the "mapView" field and declare it as a local variable in the relevant methods.(·Àºúÿÿÿÿ8Ÿß‡º÷.
+^	java:S125¦"<This block of commented-out lines of code should be removed.(œƒ‘¶şÿÿÿÿ8Ÿß‡º÷.
+R
+java:S1066¦"/Merge this if statement with the enclosing one.(æ¾Î®şÿÿÿÿ8Ÿß‡º÷.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öì»˜

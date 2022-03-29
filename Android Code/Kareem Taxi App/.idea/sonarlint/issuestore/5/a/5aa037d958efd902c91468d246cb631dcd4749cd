@@ -1,0 +1,97 @@
+
+W	java:S125¢"<This block of commented-out lines of code should be removed.(œ¥ÿÈøÿÿÿÿ
+W
+java:S2184¡"@Cast one of the operands of this integer division to a "double".(‡ÒÅñ
+h
+java:S2095ã"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ïþù‹þÿÿÿÿ
+Z
+java:S1874Ä">Remove this use of "setDrawingCacheEnabled"; it is deprecated.(‰¬áÎþÿÿÿÿ
+b	java:S100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É²ˆu
+J
+java:S1874¨"3Remove this use of "TYPE_MOBILE"; it is deprecated.(ãÇÒ±
+g	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÕÔ«
+W	java:S125þ"<This block of commented-out lines of code should be removed.(®Ñ»šøÿÿÿÿ
+{
+java:S1488Å"dImmediately return this expression instead of assigning it to the temporary variable "imageEncoded".(Ç£®Û
+w
+java:S3923í"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Öìïüÿÿÿÿ
+ƒ
+java:S1488…	"gImmediately return this expression instead of assigning it to the temporary variable "haverdistanceKM".(¨Ø¾³úÿÿÿÿ
+g
+java:S3252É"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(úà‚†
+I
+java:S1481Œ"3Remove this unused "appPackageName" local variable.(—ñ„
+U
+java:S1118F":Add a private constructor to hide the implicit public one.(¹‹ó¿ýÿÿÿÿ
+e
+java:S2259ö"I"NullPointerException" will be thrown when invoking method "extraData()".(ÔÑÈ»üÿÿÿÿ
+c	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å‡‰´
+W	java:S125š"<This block of commented-out lines of code should be removed.(µÔŸÔøÿÿÿÿ
+W	java:S125—"<This block of commented-out lines of code should be removed.(Šò¸Üûÿÿÿÿ
+X
+java:S1854Œ"BRemove this useless assignment to local variable "appPackageName".(—ñ„
+Q	java:S125‰"<This block of commented-out lines of code should be removed.(¸³ä-
+k	java:S117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Ê»«úÿÿÿÿ
+Z
+java:S1155ù">Use isEmpty() to check whether the collection is empty or not.(Ñ¸îÐþÿÿÿÿ
+V	java:S125\"<This block of commented-out lines of code should be removed.(×½Èùûÿÿÿÿ
+L
+java:S1854ž"5Remove this useless assignment to local variable "k".(“Æì
+^
+java:S1854¦"BRemove this useless assignment to local variable "screenHeightDp".(¼†ž§øÿÿÿÿ
+W	java:S125Ý"<This block of commented-out lines of code should be removed.(Ö˜úðûÿÿÿÿ
+F
+java:S2093Œ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+R	java:S125³"<This block of commented-out lines of code should be removed.(‚˜ÐÚ
+G
+java:S1874¥"1Remove this use of "TYPE_WIFI"; it is deprecated.(üˆ¡:
+Z
+java:S1874Å">Remove this use of "setDrawingCacheQuality"; it is deprecated.(ÒÁ†Èûÿÿÿÿ
+]
+java:S1874Å"ARemove this use of "DRAWING_CACHE_QUALITY_LOW"; it is deprecated.(ÒÁ†Èûÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(Ç°Šöøÿÿÿÿ
+H
+java:S1172",Remove this unused method parameter "isGps".(¬Ïýßýÿÿÿÿ
+V
+java:S1874Œ":Remove this use of "getRunningServices"; it is deprecated.(‰¿Â¼ÿÿÿÿÿ
+n
+java:S3776À"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¡¡®Îüÿÿÿÿ
+g
+java:S3252É"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(úà‚†
+N
+java:S1135þ"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+^
+java:S2259÷"GA "NullPointerException" could be thrown; "addresses" is nullable here.(ÿ¢·ñ
+W	java:S125ž"<This block of commented-out lines of code should be removed.(¨î°’üÿÿÿÿ
+E
+java:S1874¥"/Remove this use of "getType"; it is deprecated.(üˆ¡:
+L
+java:S1874¶"0Remove this use of "getColor"; it is deprecated.(”õ¥šúÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦üÕ„
+b
+java:S1874›"KRemove this use of "FLAG_ACTIVITY_CLEAR_WHEN_TASK_RESET"; it is deprecated.(ïÆÿ‚
+Z
+java:S1874Ñ">Remove this use of "setDrawingCacheEnabled"; it is deprecated.(Ø“¦ûùÿÿÿÿ
+W	java:S125¼"<This block of commented-out lines of code should be removed.(ƒÝ¹–ùÿÿÿÿ
+O
+java:S1481¦"3Remove this unused "screenHeightDp" local variable.(¼†ž§øÿÿÿÿ
+F
+java:S1874¨"/Remove this use of "getType"; it is deprecated.(ãÇÒ±
+V
+java:S1481§":Remove this unused "smallestScreenWidthDp" local variable.(ÈŽô˜ÿÿÿÿÿ
+g	java:S117ý"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á°Üõ
+Y
+java:S2184¡"BCast one of the operands of this division operation to a "double".(‡ÒÅñ
+R	java:S125"<This block of commented-out lines of code should be removed.(ä¦ð„
+K
+java:S1481’"4Remove this unused "network_enabled" local variable.(ºÕÔ«
+e
+java:S1854§"IRemove this useless assignment to local variable "smallestScreenWidthDp".(ÈŽô˜ÿÿÿÿÿ
+a
+java:S1874°"KRemove this use of "FLAG_ACTIVITY_CLEAR_WHEN_TASK_RESET"; it is deprecated.(àò“0
+h	java:S100f"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ„œ‹ûÿÿÿÿ
+L
+java:S1481ñ"5Remove this unused "simpleDateFormat" local variable.(èÁ€
+]
+java:S2259”"AA "NullPointerException" could be thrown; "fos" is nullable here.(æŒÕ®ùÿÿÿÿ
+n	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ð´8Ÿ…Üþ°/

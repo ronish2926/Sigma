@@ -1,0 +1,22 @@
+
+c	java:S1163"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÖ¸§
+J
+java:S1659K"/Declare "address_longitude" on a separate line.(òûìÍøÿÿÿÿ
+Y	java:S125É"<This block of commented-out lines of code should be removed.(öÊî„8Æº¸ó«/
+F
+java:S1659O"+Declare "carCategoryId" on a separate line.(ÍåÈùÿÿÿÿ
+T
+java:S1874Œ"1Remove this use of "getBitmap"; it is deprecated.(º›Èñøÿÿÿÿ8¦—™ó«/
+V	java:S1102"<This class has 9 parents which is greater than 5 authorized.(Ç„‘Ôûÿÿÿÿ
+@
+java:S1659O"%Declare "carType" on a separate line.(ÍåÈùÿÿÿÿ
+u	java:S116K"[Rename this field "address_latitude" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òûìÍøÿÿÿÿ
+l	java:S117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Òûÿÿÿÿ
+g	java:S117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Ê‡
+i
+java:S3776É"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(¡é††
+v	java:S116K"\Rename this field "address_longitude" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òûìÍøÿÿÿÿ
+l
+java:S14504"VRemove the "txtMenu" field and declare it as a local variable in the relevant methods.(êÄŞÖ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñË¹İıÿÿÿÿ
+^	java:S125ë"<This block of commented-out lines of code should be removed.(Æºéøÿÿÿÿ8Îî¸ó«/

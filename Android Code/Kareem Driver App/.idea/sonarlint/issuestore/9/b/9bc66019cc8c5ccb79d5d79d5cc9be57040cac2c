@@ -1,0 +1,14 @@
+
+l	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¾ñ¿úÿÿÿÿ
+h	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è˜á¹úÿÿÿÿ
+U
+java:S1155Ğ">Use isEmpty() to check whether the collection is empty or not.(ƒ³Î
+k	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æŞÉşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñË¹İıÿÿÿÿ
+Q	java:S110"<This class has 9 parents which is greater than 5 authorized.(±·ê•
+l
+java:S1450"VRemove the "txtMenu" field and declare it as a local variable in the relevant methods.(êÄŞÖ
+d
+java:S1192q"NDefine a constant instead of duplicating this literal "functionality" 3 times.(„‹–•
+U
+java:S1155‰">Use isEmpty() to check whether the collection is empty or not.(ƒ³Î

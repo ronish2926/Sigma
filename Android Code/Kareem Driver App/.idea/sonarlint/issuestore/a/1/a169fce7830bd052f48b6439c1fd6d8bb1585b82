@@ -1,0 +1,13 @@
+
+r
+java:S1104"WMake riderObject a static final constant or non-public and provide accessors if needed.(ýìŸíýÿÿÿÿ
+s
+java:S1104"XMake typingObject a static final constant or non-public and provide accessors if needed.(Ç ‚›þÿÿÿÿ
+o
+java:S1104"ZMake trackingObject a static final constant or non-public and provide accessors if needed.(€ÙíV
+y
+java:S1104"^Make userChattingObject a static final constant or non-public and provide accessors if needed.(—©’‰øÿÿÿÿ
+q
+java:S1104
+"VMake userObject a static final constant or non-public and provide accessors if needed.(¿ôëìýÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸâÜæøÿÿÿÿ

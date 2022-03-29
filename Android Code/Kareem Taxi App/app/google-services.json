@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "644970005732",
+    "firebase_url": "https://kareem-taxi-app.firebaseio.com",
+    "project_id": "kareem-taxi-app",
+    "storage_bucket": "kareem-taxi-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644970005732:android:8738d3320034ecc92258f1",
+        "android_client_info": {
+          "package_name": "com.haris.kareem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644970005732-qcid0784j2tr88f4afll79p62023js4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAan2M_Ypo_v7YsICpi-AqZyb1Qv84fUng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644970005732-qcid0784j2tr88f4afll79p62023js4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

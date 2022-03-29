@@ -1,0 +1,12 @@
+
+y
+java:S1104	"cMake chattingObjectArrayList a static final constant or non-public and provide accessors if needed.(îª–¾
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(©ªÌì
+ž
+java:S1319"‚The type of the "chattingObjectArrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(îÇü™ûÿÿÿÿ
+ž
+java:S1319"‚The type of the "chattingObjectArrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(Ü€§÷ùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸâÜæøÿÿÿÿ
+™
+java:S1319	"‚The type of the "chattingObjectArrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(îª–¾

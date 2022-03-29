@@ -1,0 +1,25 @@
+{
+  "candidates" : [
+    {
+      "formatted_address" : "Walton Road, Near Factory Area Nishtar Town, Lahore, Punjab 75400, Pakistan",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.4712146,
+          "lng" : 74.355958
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.47329905,
+            "lng" : 74.35687185
+          },
+          "southwest" : {
+            "lat" : 31.46988485,
+            "lng" : 74.35350285000001
+          }
+        }
+      },
+      "name" : "Packages Mall"
+    }
+  ],
+  "status" : "OK"
+}

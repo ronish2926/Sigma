@@ -1,0 +1,74 @@
+
+s	java:S116c"YRename this field "user_longitude" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê±íïÿÿÿÿÿ
+h	java:S116P"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þ•—Þøÿÿÿÿ
+Ÿ
+java:S1186ž"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Œœ¢8©‹‘†±/
+^	java:S125š"<This block of commented-out lines of code should be removed.(êÜÂûÿÿÿÿ8æ¿†ó«/
+^	java:S125ò"<This block of commented-out lines of code should be removed.(ô¡Ÿìÿÿÿÿÿ8©‹‘†±/
+[
+java:S1068q"9Remove this unused "isTriggerNotification" private field.(°ºæ–ûÿÿÿÿ8öåù„ï.
+i
+java:S1192Î"FDefine a constant instead of duplicating this literal "JSON " 5 times.(¡ÕÍ±üÿÿÿÿ8¨‹‘†±/
+e
+java:S1192Ã"GDefine a constant instead of duplicating this literal "status" 4 times.(ôÁƒ¼8öåù„ï.
+‰
+java:S1192Á"fDefine a constant instead of duplicating this literal "Failed to read value in RiderEvent = " 3 times.(ç¿ƒ¦úÿÿÿÿ8öåù„ï.
+n	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¶¹8¨‹‘†±/
+„	java:S116t"hRename this field "fee_including_waiting_charges" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æý«¶8öåù„ï.
+K	java:S108©")Either remove or fill this block of code.(Žã¨ôûÿÿÿÿ8öåù„ï.
+‚
+java:S1450`"gRemove the "destinationEventListener" field and declare it as a local variable in the relevant methods.(§Žùÿÿÿÿ
+s	java:S116p"RRename this field "user_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÖïéÿÿÿÿÿ8öåù„ï.
+n	java:S117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œŸ¼î8¨‹‘†±/
+Ÿ
+java:S1186Œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ïí¦©8©‹‘†±/
+¤
+java:S1186º"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(äÇ•žûÿÿÿÿ8öåù„ï.
+|
+java:S1450_"aRemove the "riderEventListener" field and declare it as a local variable in the relevant methods.(÷Î´üÿÿÿÿ
+n	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¶¹8¨‹‘†±/
+s	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Ñ‘Ÿüÿÿÿÿ8¨‹‘†±/
+q
+java:S1192Á"NDefine a constant instead of duplicating this literal "functionality" 6 times.(Ò€šþùÿÿÿÿ8¨‹‘†±/
+Ÿ
+java:S1186°"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(èÉÏ8öåù„ï.
+n	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¶¹8¨‹‘†±/
+^	java:S125ò"<This block of commented-out lines of code should be removed.(–“Åýÿÿÿÿ8öåù„ï.
+J
+java:S1068S"4Remove this unused "mapboxNavigation" private field.(ÞõÆª
+n	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Éÿè8¨‹‘†±/
+z
+java:S1450^"dRemove the "trackingEventListener" field and declare it as a local variable in the relevant methods.(÷ÕóÅ
+…
+java:S4144ø"bUpdate this method so that its implementation is not identical to "getRideStatusJson" on line 730.(òµ÷“ýÿÿÿÿ8¨‹‘†±/
+r
+java:S1450R"WRemove the "userData" field and declare it as a local variable in the relevant methods.(õÜØ•þÿÿÿÿ
+¤
+java:S1186¿"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ð÷‘Þÿÿÿÿÿ8öåù„ï.
+G
+java:S1068R",Remove this unused "userData" private field.(õÜØ•þÿÿÿÿ
+s
+java:S1450Y"]Remove the "destinationRef" field and declare it as a local variable in the relevant methods.(¡ÅÜÍ
+a
+java:S1117‚">Rename "dataObject" which hides the field declared at line 97.(‘ÃÔþþÿÿÿÿ8©‹‘†±/
+s	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Ñ‘Ÿüÿÿÿÿ8¨‹‘†±/
+M
+java:S1066Þ"/Merge this if statement with the enclosing one.(³„à¡8¨‹‘†±/
+^	java:S125‡"<This block of commented-out lines of code should be removed.(àý¤Ðùÿÿÿÿ8­¼ˆó«/
+g
+java:S1192Å"IDefine a constant instead of duplicating this literal "order_id" 5 times.(²æª®8¨‹‘†±/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñË¹Ýýÿÿÿÿ
+s	java:S117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òµ÷“ýÿÿÿÿ8¨‹‘†±/
+W	java:S110M"<This class has 9 parents which is greater than 5 authorized.(Æü8æ¿†ó«/
+Z
+java:S1874Ò"<Remove this use of "SCREEN_DIM_WAKE_LOCK"; it is deprecated.(¼Ã…â8öåù„ï.
+n	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¶¹8¨‹‘†±/
+d
+java:S1192§"FDefine a constant instead of duplicating this literal "order" 5 times.(¤úý…8öåù„ï.
+r
+java:S1450V"\Remove the "rootReference" field and declare it as a local variable in the relevant methods.(åÒ™Û
+¤
+java:S1186µ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷¨Þ¬ùÿÿÿÿ8öåù„ï.
+m	java:S116b"XRename this field "user_latitude" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñüµã
+l
+java:S3252ò"OUse static access with "android.content.DialogInterface" for "BUTTON_POSITIVE".(¤‹ì&8©‹‘†±/

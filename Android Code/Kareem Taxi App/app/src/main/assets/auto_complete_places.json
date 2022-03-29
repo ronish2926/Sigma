@@ -1,0 +1,266 @@
+{
+  "predictions" : [
+    {
+      "description" : "Imtiaz Super Market, Lahore - Sheikhupura - Faisalabad Road, Faisalabad, Pakistan",
+      "id" : "97a167bd469ea1d30554d902d2b3f01a1b4e7350",
+      "matched_substrings" : [
+        {
+          "length" : 6,
+          "offset" : 0
+        },
+        {
+          "length" : 10,
+          "offset" : 61
+        }
+      ],
+      "place_id" : "ChIJc8HlUORpIjkRz87qcmmWftE",
+      "reference" : "ChIJc8HlUORpIjkRz87qcmmWftE",
+      "structured_formatting" : {
+        "main_text" : "Imtiaz Super Market",
+        "main_text_matched_substrings" : [
+          {
+            "length" : 6,
+            "offset" : 0
+          }
+        ],
+        "secondary_text" : "Lahore - Sheikhupura - Faisalabad Road, Faisalabad, Pakistan",
+        "secondary_text_matched_substrings" : [
+          {
+            "length" : 10,
+            "offset" : 40
+          }
+        ]
+      },
+      "terms" : [
+        {
+          "offset" : 0,
+          "value" : "Imtiaz Super Market"
+        },
+        {
+          "offset" : 21,
+          "value" : "Lahore - Sheikhupura - Faisalabad Road"
+        },
+        {
+          "offset" : 61,
+          "value" : "Faisalabad"
+        },
+        {
+          "offset" : 73,
+          "value" : "Pakistan"
+        }
+      ],
+      "types" : [
+        "supermarket",
+        "grocery_or_supermarket",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    },
+    {
+      "description" : "Imtiaz Super Market - FSD, Lahore - Sheikhupura - Faisalabad Road, near Ashrafabad, Faisalabad, Pakistan",
+      "id" : "aa335d1c9766b171e806f7d06371f058cb6e775e",
+      "matched_substrings" : [
+        {
+          "length" : 6,
+          "offset" : 0
+        },
+        {
+          "length" : 10,
+          "offset" : 84
+        }
+      ],
+      "place_id" : "ChIJA64478JpIjkRtVyByPUdZz4",
+      "reference" : "ChIJA64478JpIjkRtVyByPUdZz4",
+      "structured_formatting" : {
+        "main_text" : "Imtiaz Super Market - FSD",
+        "main_text_matched_substrings" : [
+          {
+            "length" : 6,
+            "offset" : 0
+          }
+        ],
+        "secondary_text" : "Lahore - Sheikhupura - Faisalabad Road, near Ashrafabad, Faisalabad, Pakistan",
+        "secondary_text_matched_substrings" : [
+          {
+            "length" : 10,
+            "offset" : 57
+          }
+        ]
+      },
+      "terms" : [
+        {
+          "offset" : 0,
+          "value" : "Imtiaz Super Market - FSD"
+        },
+        {
+          "offset" : 27,
+          "value" : "Lahore - Sheikhupura - Faisalabad Road"
+        },
+        {
+          "offset" : 67,
+          "value" : "near Ashrafabad"
+        },
+        {
+          "offset" : 84,
+          "value" : "Faisalabad"
+        },
+        {
+          "offset" : 96,
+          "value" : "Pakistan"
+        }
+      ],
+      "types" : [
+        "supermarket",
+        "grocery_or_supermarket",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    },
+    {
+      "description" : "Imtiaz Shaheed Road, Faisalabad, Pakistan",
+      "id" : "75eb8f6acc8e4c3643357b8e44a8b5200b858cde",
+      "matched_substrings" : [
+        {
+          "length" : 6,
+          "offset" : 0
+        },
+        {
+          "length" : 10,
+          "offset" : 21
+        }
+      ],
+      "place_id" : "EilJbXRpYXogU2hhaGVlZCBSb2FkLCBGYWlzYWxhYmFkLCBQYWtpc3RhbiIuKiwKFAoSCcNfbTFnaCI5EcL3hq2EH0JJEhQKEgn1oj3jZmgiORGhb1g6ZoeIpg",
+      "reference" : "EilJbXRpYXogU2hhaGVlZCBSb2FkLCBGYWlzYWxhYmFkLCBQYWtpc3RhbiIuKiwKFAoSCcNfbTFnaCI5EcL3hq2EH0JJEhQKEgn1oj3jZmgiORGhb1g6ZoeIpg",
+      "structured_formatting" : {
+        "main_text" : "Imtiaz Shaheed Road",
+        "main_text_matched_substrings" : [
+          {
+            "length" : 6,
+            "offset" : 0
+          }
+        ],
+        "secondary_text" : "Faisalabad, Pakistan",
+        "secondary_text_matched_substrings" : [
+          {
+            "length" : 10,
+            "offset" : 0
+          }
+        ]
+      },
+      "terms" : [
+        {
+          "offset" : 0,
+          "value" : "Imtiaz Shaheed Road"
+        },
+        {
+          "offset" : 21,
+          "value" : "Faisalabad"
+        },
+        {
+          "offset" : 33,
+          "value" : "Pakistan"
+        }
+      ],
+      "types" : [ "route", "geocode" ]
+    },
+    {
+      "description" : "Imtiaz, Faisalabad, Pakistan",
+      "id" : "722795ffcc608a01a60da32a85ec9d00c8100867",
+      "matched_substrings" : [
+        {
+          "length" : 6,
+          "offset" : 0
+        },
+        {
+          "length" : 10,
+          "offset" : 8
+        }
+      ],
+      "place_id" : "ChIJozV1iWhDIjkRfVpt8leI8so",
+      "reference" : "ChIJozV1iWhDIjkRfVpt8leI8so",
+      "structured_formatting" : {
+        "main_text" : "Imtiaz",
+        "main_text_matched_substrings" : [
+          {
+            "length" : 6,
+            "offset" : 0
+          }
+        ],
+        "secondary_text" : "Faisalabad, Pakistan",
+        "secondary_text_matched_substrings" : [
+          {
+            "length" : 10,
+            "offset" : 0
+          }
+        ]
+      },
+      "terms" : [
+        {
+          "offset" : 0,
+          "value" : "Imtiaz"
+        },
+        {
+          "offset" : 8,
+          "value" : "Faisalabad"
+        },
+        {
+          "offset" : 20,
+          "value" : "Pakistan"
+        }
+      ],
+      "types" : [ "pharmacy", "health", "point_of_interest", "store", "establishment" ]
+    },
+    {
+      "description" : "Imtiaz Timber Store, Faisalabad, Pakistan",
+      "id" : "d7c418c6439aa07c2ab5577078ae391c5a439810",
+      "matched_substrings" : [
+        {
+          "length" : 6,
+          "offset" : 0
+        },
+        {
+          "length" : 10,
+          "offset" : 21
+        }
+      ],
+      "place_id" : "ChIJ12VsYcxpIjkRjQijAagSr3g",
+      "reference" : "ChIJ12VsYcxpIjkRjQijAagSr3g",
+      "structured_formatting" : {
+        "main_text" : "Imtiaz Timber Store",
+        "main_text_matched_substrings" : [
+          {
+            "length" : 6,
+            "offset" : 0
+          }
+        ],
+        "secondary_text" : "Faisalabad, Pakistan",
+        "secondary_text_matched_substrings" : [
+          {
+            "length" : 10,
+            "offset" : 0
+          }
+        ]
+      },
+      "terms" : [
+        {
+          "offset" : 0,
+          "value" : "Imtiaz Timber Store"
+        },
+        {
+          "offset" : 21,
+          "value" : "Faisalabad"
+        },
+        {
+          "offset" : 33,
+          "value" : "Pakistan"
+        }
+      ],
+      "types" : [ "point_of_interest", "store", "establishment" ]
+    }
+  ],
+  "status" : "OK"
+}

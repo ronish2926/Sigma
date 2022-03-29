@@ -1,0 +1,21 @@
+
+Q
+java:S2696E"6Make the enclosing method "static" or remove this set.(û€Ì›ùÿÿÿÿ
+G
+java:S1444",Make this "public static stripe" field final(˜÷‡”þÿÿÿÿ
+W
+java:S18740"5Remove this use of "sdkInitialize"; it is deprecated.(²×ØÐûÿÿÿÿ8ô×ùž„/
+h	java:S100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒäÉ–þÿÿÿÿ
+m
+java:S1104"RMake stripe a static final constant or non-public and provide accessors if needed.(˜÷‡”þÿÿÿÿ
+Q
+java:S1874^"6Remove this use of "GET_SIGNATURES"; it is deprecated.(µ‹€üûÿÿÿÿ
+A
+java:S3010!"&Remove this assignment of "mInstance".(û€Ì›ùÿÿÿÿ
+V	java:S125C"<This block of commented-out lines of code should be removed.(äµÞþÿÿÿÿ
+X
+java:S2696;"6Make the enclosing method "static" or remove this set.(Éú°Ùÿÿÿÿÿ8öËœ€±/
+Z
+java:S2147g"ECombine this catch with the one at line 101, which has the same body.(ÿÒ„p
+M
+java:S1874_"2Remove this use of "signatures"; it is deprecated.(½ëò‹ùÿÿÿÿ

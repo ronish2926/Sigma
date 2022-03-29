@@ -1,0 +1,26 @@
+
+m	java:S116$"XRename this field "ADD_CARD_VIEW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô–ä
+u	java:S116#"[Rename this field "CARD_DETAIL_VIEW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Â¼Êûÿÿÿÿ
+V
+java:S1854z"@Remove this useless assignment to local variable "lookUpHolder".(´ôå½
+Q
+java:S1068Í".Remove this unused "imageArrow" private field.(›‘Û³şÿÿÿÿ8°˜î.
+q	java:S116"WRename this field "NO_DATA_VIEW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å“·şÿÿÿÿ
+
+java:S1319)"tThe type of the "dataArray" object should be an interface such as "List" rather than the implementation "ArrayList".(¸ÈĞ»üÿÿÿÿ
+r	java:S116 "XRename this field "PROGRESS_VIEW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éà¹˜úÿÿÿÿ
+s	java:S116""YRename this field "CARD_TYPE_VIEW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¸¿êşÿÿÿÿ
+m
+java:S3776r"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¨«”ºüÿÿÿÿ
+N
+java:S1068–"0Remove this unused "progressView" private field.(±²³®8°˜î.
+T
+java:S5993)"9Change the visibility of this constructor to "protected".(¸ÈĞ»üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸¸–Ëøÿÿÿÿ
+s	java:S116!"YRename this field "RIDE_TYPE_VIEW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÃ©Åûÿÿÿÿ
+G
+java:S1481z"1Remove this unused "lookUpHolder" local variable.(´ôå½
+e
+java:S3973Õ"GUse indentation to denote the code conditionally executed by this "if".(ÑúÖÜ8°˜î.
+E
+java:S3740"/Provide the parametrized type for this generic.(©È™¨

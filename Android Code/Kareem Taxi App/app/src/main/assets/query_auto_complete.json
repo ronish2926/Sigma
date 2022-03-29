@@ -1,0 +1,212 @@
+{
+  "predictions" : [
+    {
+      "description" : "Imtiaz Super Market, Lahore - Sheikhupura - Faisalabad Road, Jameelabad, Pakistan",
+      "id" : "34c853ada17e11f81fae2e732107674b7567a0f6",
+      "matched_substrings" : [
+        {
+          "length" : 19,
+          "offset" : 0
+        }
+      ],
+      "place_id" : "ChIJdSCyK7RpIjkRG7cfgjPEMes",
+      "reference" : "ChIJdSCyK7RpIjkRG7cfgjPEMes",
+      "structured_formatting" : {
+        "main_text" : "Imtiaz Super Market",
+        "main_text_matched_substrings" : [
+          {
+            "length" : 19,
+            "offset" : 0
+          }
+        ],
+        "secondary_text" : "Lahore - Sheikhupura - Faisalabad Road, Jameelabad, Pakistan"
+      },
+      "terms" : [
+        {
+          "offset" : 0,
+          "value" : "Imtiaz Super Market"
+        },
+        {
+          "offset" : 21,
+          "value" : "Lahore - Sheikhupura - Faisalabad Road"
+        },
+        {
+          "offset" : 61,
+          "value" : "Jameelabad"
+        },
+        {
+          "offset" : 73,
+          "value" : "Pakistan"
+        }
+      ],
+      "types" : [
+        "supermarket",
+        "grocery_or_supermarket",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    },
+    {
+      "description" : "Imtiaz market chowk Rawalpindi, Lakhu Road, Chakra, Pakistan",
+      "id" : "f9d960fc00db30cf1b03bee0ade617afc65f5619",
+      "matched_substrings" : [
+        {
+          "length" : 13,
+          "offset" : 0
+        }
+      ],
+      "place_id" : "ChIJmysU4PCX3zgRc4_qpp5ERMQ",
+      "reference" : "ChIJmysU4PCX3zgRc4_qpp5ERMQ",
+      "structured_formatting" : {
+        "main_text" : "Imtiaz market chowk Rawalpindi",
+        "main_text_matched_substrings" : [
+          {
+            "length" : 13,
+            "offset" : 0
+          }
+        ],
+        "secondary_text" : "Lakhu Road, Chakra, Pakistan"
+      },
+      "terms" : [
+        {
+          "offset" : 0,
+          "value" : "Imtiaz market chowk Rawalpindi"
+        },
+        {
+          "offset" : 32,
+          "value" : "Lakhu Road"
+        },
+        {
+          "offset" : 44,
+          "value" : "Chakra"
+        },
+        {
+          "offset" : 52,
+          "value" : "Pakistan"
+        }
+      ],
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ]
+    },
+    {
+      "description" : "Imtiaz Market, Lahore, Pakistan",
+      "id" : "163d8ce7177baf1dd89b381c1c2abd789e2e8ee3",
+      "matched_substrings" : [
+        {
+          "length" : 13,
+          "offset" : 0
+        }
+      ],
+      "place_id" : "ChIJ1zol-bMcGTkRb9TM-Vrnky0",
+      "reference" : "ChIJ1zol-bMcGTkRb9TM-Vrnky0",
+      "structured_formatting" : {
+        "main_text" : "Imtiaz Market",
+        "main_text_matched_substrings" : [
+          {
+            "length" : 13,
+            "offset" : 0
+          }
+        ],
+        "secondary_text" : "Lahore, Pakistan"
+      },
+      "terms" : [
+        {
+          "offset" : 0,
+          "value" : "Imtiaz Market"
+        },
+        {
+          "offset" : 15,
+          "value" : "Lahore"
+        },
+        {
+          "offset" : 23,
+          "value" : "Pakistan"
+        }
+      ],
+      "types" : [ "point_of_interest", "establishment" ]
+    },
+    {
+      "description" : "NFBE School Imtiaz Market, Chakra, Pakistan",
+      "id" : "572d18b479b423e620a933df04b65067e40a4dcf",
+      "matched_substrings" : [
+        {
+          "length" : 13,
+          "offset" : 12
+        }
+      ],
+      "place_id" : "ChIJqxi-BbOW3zgR5YNhtvUITgM",
+      "reference" : "ChIJqxi-BbOW3zgR5YNhtvUITgM",
+      "structured_formatting" : {
+        "main_text" : "NFBE School Imtiaz Market",
+        "main_text_matched_substrings" : [
+          {
+            "length" : 13,
+            "offset" : 12
+          }
+        ],
+        "secondary_text" : "Chakra, Pakistan"
+      },
+      "terms" : [
+        {
+          "offset" : 0,
+          "value" : "NFBE School Imtiaz Market"
+        },
+        {
+          "offset" : 27,
+          "value" : "Chakra"
+        },
+        {
+          "offset" : 35,
+          "value" : "Pakistan"
+        }
+      ],
+      "types" : [ "school", "point_of_interest", "establishment" ]
+    },
+    {
+      "description" : "Imtiaz Super Market, Gujranwala, Pakistan",
+      "id" : "cb420d5d72925a5440caf41967d9b1dcc641cce7",
+      "matched_substrings" : [
+        {
+          "length" : 19,
+          "offset" : 0
+        }
+      ],
+      "place_id" : "ChIJDQqI5-sqHzkRvEOd1yLRIhw",
+      "reference" : "ChIJDQqI5-sqHzkRvEOd1yLRIhw",
+      "structured_formatting" : {
+        "main_text" : "Imtiaz Super Market",
+        "main_text_matched_substrings" : [
+          {
+            "length" : 19,
+            "offset" : 0
+          }
+        ],
+        "secondary_text" : "Gujranwala, Pakistan"
+      },
+      "terms" : [
+        {
+          "offset" : 0,
+          "value" : "Imtiaz Super Market"
+        },
+        {
+          "offset" : 21,
+          "value" : "Gujranwala"
+        },
+        {
+          "offset" : 33,
+          "value" : "Pakistan"
+        }
+      ],
+      "types" : [
+        "supermarket",
+        "grocery_or_supermarket",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ]
+    }
+  ],
+  "status" : "OK"
+}

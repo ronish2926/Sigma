@@ -1,0 +1,30 @@
+
+
+java:S1319*"tThe type of the "dataArray" object should be an interface such as "List" rather than the implementation "ArrayList".(½Á‰Îşÿÿÿÿ
+
+java:S1319/"tThe type of the "dataArray" object should be an interface such as "List" rather than the implementation "ArrayList".(„›ğûÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(ÙºıŸûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚Ëçß
+q	java:S116"WRename this field "NO_DATA_VIEW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å“·şÿÿÿÿ
+s	java:S116 "YRename this field "RIDE_TYPE_VIEW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âŸêøÿÿÿÿ
+o	java:S116!"URename this field "LABEL_VIEW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ßÌßùÿÿÿÿ
+m	java:S116""XRename this field "PROGRESS_VIEW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨éîî
+n	java:S116#"TRename this field "CITY_VIEW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆç°öùÿÿÿÿ
+r	java:S116$"]Rename this field "RIDE_CATEGORY_VIEW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡øúä
+W
+java:S1854ƒ"@Remove this useless assignment to local variable "lookUpHolder".(´ôå½
+m
+java:S3776~"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(¨«”ºüÿÿÿÿ
+R	java:S125‚"<This block of commented-out lines of code should be removed.(›·°¡
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(¬Õ¸øÿÿÿÿ
+H
+java:S1481ƒ"1Remove this unused "lookUpHolder" local variable.(´ôå½
+J
+java:S1068û"3Remove this unused "layoutContainer" private field.(ìşï
+D
+java:S1068‰".Remove this unused "layoutFrom" private field.(Ã†¢
+G
+java:S1068™"0Remove this unused "progressView" private field.(±²³®
+D
+java:S1068¤".Remove this unused "layoutFrom" private field.(Ã†¢
