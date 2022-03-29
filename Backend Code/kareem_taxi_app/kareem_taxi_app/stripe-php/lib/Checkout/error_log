@@ -1,0 +1,14 @@
+[12-Aug-2020 09:33:28 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Checkout/Session.php on line 27
+[15-Aug-2020 16:20:28 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Checkout/Session.php on line 27
+[01-Sep-2020 06:33:11 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Checkout/Session.php on line 27
+[11-Sep-2020 04:39:43 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Checkout/Session.php on line 27
+[22-Sep-2020 10:49:22 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Checkout/Session.php on line 27
+[31-Oct-2020 12:39:06 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Checkout/Session.php on line 27
+[16-Nov-2020 08:58:10 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Checkout/Session.php on line 27
+[21-Nov-2020 23:14:08 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Checkout/Session.php on line 27
+[27-Nov-2020 03:30:13 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Checkout/Session.php on line 27
+[28-Nov-2020 11:23:31 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Checkout/Session.php on line 27
+[04-Dec-2020 19:19:38 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Checkout/Session.php on line 27
+[11-Dec-2020 14:55:03 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Checkout/Session.php on line 27
+[12-Dec-2020 14:54:51 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Checkout/Session.php on line 27
+[17-Dec-2020 23:23:44 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Checkout/Session.php on line 27

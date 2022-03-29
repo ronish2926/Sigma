@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Profile</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../vendor//bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Kufam:wght@400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="../public//css/dropzone.css">
+    <link rel="stylesheet" href="../public//css/jquery.tag.css">
+    <link rel="stylesheet" href="../public//css/jquery.tagsinput-revisited.css">
+    <!-- Custom styles for this template -->
+    <link href="../public//css/main.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <div class="d-flex" id="wrapper">
+
+
+
+        <!-- Page Content -->
+        <div id="page-content-wrapper">
+
+            <nav class="navbar navbar-expand-md navbar-light  border-bottom">
+                <!-- <button class="btn btn-primary" id="menu-toggle"><span><i class="fas fa-bars"></i></span></button> -->
+                <div class="sidebar-heading">
+
+                    <svg width="111px" height="30px" viewBox="0 0 111 30" version="1.1"
+                        xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+                        <desc>Created with Lunacy</desc>
+                        <defs>
+                            <path
+                                d="M9.999 0L18.001 0Q18.2465 0 18.4916 0.0120442Q18.7368 0.0240885 18.9811 0.0481479Q19.2254 0.0722074 19.4682 0.108224Q19.711 0.144241 19.9517 0.192128Q20.1925 0.240015 20.4306 0.299657Q20.6687 0.3593 20.9036 0.430553Q21.1384 0.501807 21.3696 0.584501Q21.6007 0.667194 21.8274 0.761128Q22.0542 0.855062 22.2761 0.960011Q22.498 1.06496 22.7145 1.18067Q22.931 1.29638 23.1415 1.42257Q23.352 1.54876 23.5561 1.68514Q23.7602 1.82151 23.9574 1.96773Q24.1546 2.11395 24.3443 2.26967Q24.534 2.42539 24.7159 2.59023Q24.8978 2.75507 25.0714 2.92864Q25.2449 3.10221 25.4098 3.28408Q25.5746 3.46596 25.7303 3.6557Q25.886 3.84545 26.0323 4.0426Q26.1785 4.23976 26.3149 4.44385Q26.4512 4.64795 26.5774 4.85849Q26.7036 5.06903 26.8193 5.2855Q26.935 5.50198 27.04 5.72388Q27.1449 5.94577 27.2389 6.17255Q27.3328 6.39932 27.4155 6.63044Q27.4982 6.86155 27.5694 7.09644Q27.6407 7.33134 27.7003 7.56944Q27.76 7.80755 27.8079 8.04829Q27.8558 8.28904 27.8918 8.53184Q27.9278 8.77465 27.9519 9.01893Q27.9759 9.26321 27.988 9.50837Q28 9.75354 28 9.999L28 18.001Q28 18.2465 27.988 18.4916Q27.9759 18.7368 27.9518 18.9811Q27.9278 19.2254 27.8918 19.4682Q27.8558 19.711 27.8079 19.9517Q27.76 20.1925 27.7003 20.4306Q27.6407 20.6687 27.5694 20.9036Q27.4982 21.1384 27.4155 21.3696Q27.3328 21.6007 27.2389 21.8274Q27.1449 22.0542 27.04 22.2761Q26.935 22.498 26.8193 22.7145Q26.7036 22.931 26.5774 23.1415Q26.4512 23.352 26.3149 23.5561Q26.1785 23.7602 26.0323 23.9574Q25.886 24.1546 25.7303 24.3443Q25.5746 24.534 25.4098 24.7159Q25.2449 24.8978 25.0714 25.0714Q24.8978 25.2449 24.7159 25.4098Q24.534 25.5746 24.3443 25.7303Q24.1546 25.886 23.9574 26.0323Q23.7602 26.1785 23.5561 26.3149Q23.352 26.4512 23.1415 26.5774Q22.931 26.7036 22.7145 26.8193Q22.498 26.935 22.2761 27.04Q22.0542 27.1449 21.8274 27.2389Q21.6007 27.3328 21.3696 27.4155Q21.1384 27.4982 20.9036 27.5694Q20.6687 27.6407 20.4306 27.7003Q20.1925 27.76 19.9517 27.8079Q19.711 27.8558 19.4682 27.8918Q19.2254 27.9278 18.9811 27.9519Q18.7368 27.9759 18.4916 27.988Q18.2465 28 18.001 28L9.999 28Q9.75354 28 9.50837 27.988Q9.26321 27.9759 9.01893 27.9518Q8.77465 27.9278 8.53184 27.8918Q8.28904 27.8558 8.04829 27.8079Q7.80755 27.76 7.56944 27.7003Q7.33134 27.6407 7.09644 27.5694Q6.86155 27.4982 6.63044 27.4155Q6.39932 27.3328 6.17255 27.2389Q5.94577 27.1449 5.72388 27.04Q5.50198 26.935 5.2855 26.8193Q5.06903 26.7036 4.85849 26.5774Q4.64795 26.4512 4.44385 26.3149Q4.23976 26.1785 4.0426 26.0323Q3.84545 25.886 3.6557 25.7303Q3.46596 25.5746 3.28408 25.4098Q3.10221 25.2449 2.92864 25.0714Q2.75507 24.8978 2.59023 24.7159Q2.42539 24.534 2.26967 24.3443Q2.11395 24.1546 1.96773 23.9574Q1.82151 23.7602 1.68514 23.5561Q1.54876 23.352 1.42257 23.1415Q1.29638 22.931 1.18067 22.7145Q1.06496 22.498 0.960011 22.2761Q0.855062 22.0542 0.761128 21.8274Q0.667194 21.6007 0.584501 21.3696Q0.501807 21.1384 0.430553 20.9036Q0.3593 20.6687 0.299657 20.4306Q0.240015 20.1925 0.192128 19.9517Q0.144241 19.711 0.108224 19.4682Q0.0722074 19.2254 0.0481479 18.9811Q0.0240885 18.7368 0.0120442 18.4916Q0 18.2465 0 18.001L0 9.999Q0 9.75354 0.0120442 9.50837Q0.0240885 9.26321 0.0481479 9.01893Q0.0722074 8.77465 0.108224 8.53184Q0.144241 8.28904 0.192128 8.04829Q0.240015 7.80755 0.299657 7.56944Q0.3593 7.33134 0.430553 7.09644Q0.501807 6.86155 0.584501 6.63044Q0.667194 6.39932 0.761128 6.17255Q0.855062 5.94577 0.960011 5.72388Q1.06496 5.50198 1.18067 5.2855Q1.29638 5.06903 1.42257 4.85849Q1.54876 4.64795 1.68514 4.44385Q1.82151 4.23976 1.96773 4.0426Q2.11395 3.84545 2.26967 3.6557Q2.42539 3.46596 2.59023 3.28408Q2.75507 3.10221 2.92864 2.92864Q3.10221 2.75507 3.28408 2.59023Q3.46596 2.42539 3.6557 2.26967Q3.84545 2.11395 4.0426 1.96773Q4.23976 1.82151 4.44385 1.68514Q4.64795 1.54876 4.85849 1.42257Q5.06903 1.29638 5.2855 1.18067Q5.50198 1.06496 5.72388 0.960011Q5.94577 0.855062 6.17255 0.761128Q6.39932 0.667194 6.63044 0.584501Q6.86155 0.501807 7.09644 0.430553Q7.33134 0.3593 7.56944 0.299657Q7.80755 0.240015 8.04829 0.192128Q8.28904 0.144241 8.53184 0.108224Q8.77465 0.0722074 9.01893 0.0481479Q9.26321 0.0240885 9.50837 0.0120442Q9.75354 0 9.999 0Z"
+                                transform="translate(0 1)" id="path_1" />
+                            <path
+                                d="M7.999 0L8.001 0Q8.19736 0 8.39349 0.00963514Q8.58962 0.0192703 8.78504 0.0385174Q8.98046 0.0577644 9.1747 0.0865771Q9.36893 0.11539 9.56153 0.153699Q9.75412 0.192007 9.9446 0.23972Q10.1351 0.287433 10.323 0.344434Q10.5109 0.401436 10.6958 0.467589Q10.8807 0.533742 11.0621 0.608888Q11.2435 0.684033 11.421 0.76799Q11.5985 0.851946 11.7717 0.944512Q11.9449 1.03708 12.1133 1.13803Q12.2817 1.23898 12.445 1.34807Q12.6083 1.45717 12.766 1.57414Q12.9237 1.69112 13.0755 1.81569Q13.2273 1.94026 13.3728 2.07213Q13.5183 2.204 13.6571 2.34285Q13.796 2.4817 13.9279 2.6272Q14.0597 2.7727 14.1843 2.92449Q14.3089 3.07628 14.4259 3.234Q14.5428 3.39172 14.6519 3.55499Q14.761 3.71826 14.862 3.88669Q14.9629 4.05512 15.0555 4.2283Q15.1481 4.40148 15.232 4.57899Q15.316 4.7565 15.3911 4.93791Q15.4663 5.11933 15.5324 5.30422Q15.5986 5.4891 15.6556 5.67701Q15.7126 5.86492 15.7603 6.0554Q15.808 6.24588 15.8463 6.43847Q15.8846 6.63106 15.9134 6.8253Q15.9422 7.01954 15.9615 7.21496Q15.9807 7.41038 15.9904 7.60651Q16 7.80264 16 7.999L16 8.001Q16 8.19736 15.9904 8.39349Q15.9807 8.58962 15.9615 8.78504Q15.9422 8.98046 15.9134 9.1747Q15.8846 9.36893 15.8463 9.56153Q15.808 9.75412 15.7603 9.9446Q15.7126 10.1351 15.6556 10.323Q15.5986 10.5109 15.5324 10.6958Q15.4663 10.8807 15.3911 11.0621Q15.316 11.2435 15.232 11.421Q15.1481 11.5985 15.0555 11.7717Q14.9629 11.9449 14.862 12.1133Q14.761 12.2817 14.6519 12.445Q14.5428 12.6083 14.4259 12.766Q14.3089 12.9237 14.1843 13.0755Q14.0597 13.2273 13.9279 13.3728Q13.796 13.5183 13.6571 13.6571Q13.5183 13.796 13.3728 13.9279Q13.2273 14.0597 13.0755 14.1843Q12.9237 14.3089 12.766 14.4259Q12.6083 14.5428 12.445 14.6519Q12.2817 14.761 12.1133 14.862Q11.9449 14.9629 11.7717 15.0555Q11.5985 15.1481 11.421 15.232Q11.2435 15.316 11.0621 15.3911Q10.8807 15.4663 10.6958 15.5324Q10.5109 15.5986 10.323 15.6556Q10.1351 15.7126 9.9446 15.7603Q9.75412 15.808 9.56153 15.8463Q9.36893 15.8846 9.1747 15.9134Q8.98046 15.9422 8.78504 15.9615Q8.58962 15.9807 8.39349 15.9904Q8.19736 16 8.001 16L7.999 16Q7.80264 16 7.60651 15.9904Q7.41038 15.9807 7.21496 15.9615Q7.01954 15.9422 6.8253 15.9134Q6.63106 15.8846 6.43847 15.8463Q6.24588 15.808 6.0554 15.7603Q5.86492 15.7126 5.67701 15.6556Q5.4891 15.5986 5.30422 15.5324Q5.11933 15.4663 4.93791 15.3911Q4.7565 15.316 4.57899 15.232Q4.40148 15.1481 4.2283 15.0555Q4.05512 14.9629 3.88669 14.862Q3.71826 14.761 3.55499 14.6519Q3.39172 14.5428 3.234 14.4259Q3.07628 14.3089 2.92449 14.1843Q2.7727 14.0597 2.6272 13.9279Q2.4817 13.796 2.34285 13.6571Q2.204 13.5183 2.07213 13.3728Q1.94026 13.2273 1.81569 13.0755Q1.69112 12.9237 1.57414 12.766Q1.45717 12.6083 1.34807 12.445Q1.23898 12.2817 1.13803 12.1133Q1.03708 11.9449 0.944512 11.7717Q0.851946 11.5985 0.76799 11.421Q0.684033 11.2435 0.608888 11.0621Q0.533742 10.8807 0.467589 10.6958Q0.401436 10.5109 0.344434 10.323Q0.287433 10.1351 0.23972 9.9446Q0.192007 9.75412 0.153699 9.56153Q0.11539 9.36893 0.0865771 9.1747Q0.0577644 8.98046 0.0385174 8.78504Q0.0192703 8.58962 0.00963514 8.39349Q0 8.19736 0 8.001L0 7.999Q0 7.80264 0.00963514 7.60651Q0.0192703 7.41038 0.0385174 7.21496Q0.0577644 7.01954 0.0865771 6.8253Q0.11539 6.63106 0.153699 6.43847Q0.192007 6.24588 0.23972 6.0554Q0.287433 5.86492 0.344434 5.67701Q0.401436 5.4891 0.467589 5.30422Q0.533742 5.11933 0.608888 4.93791Q0.684033 4.7565 0.76799 4.57899Q0.851946 4.40148 0.944512 4.2283Q1.03708 4.05512 1.13803 3.88669Q1.23898 3.71826 1.34807 3.55499Q1.45717 3.39172 1.57414 3.234Q1.69112 3.07628 1.81569 2.92449Q1.94026 2.7727 2.07213 2.6272Q2.204 2.4817 2.34285 2.34285Q2.4817 2.204 2.6272 2.07213Q2.7727 1.94026 2.92449 1.81569Q3.07628 1.69112 3.234 1.57414Q3.39172 1.45717 3.55499 1.34807Q3.71826 1.23898 3.88669 1.13803Q4.05512 1.03708 4.2283 0.944512Q4.40148 0.851946 4.57899 0.76799Q4.7565 0.684033 4.93791 0.608888Q5.11933 0.533742 5.30422 0.467589Q5.4891 0.401436 5.67701 0.344434Q5.86492 0.287433 6.0554 0.23972Q6.24588 0.192007 6.43847 0.153699Q6.63106 0.11539 6.8253 0.0865771Q7.01954 0.0577644 7.21496 0.0385174Q7.41038 0.0192703 7.60651 0.00963514Q7.80264 0 7.999 0L7.999 0Z"
+                                transform="translate(11 2)" id="path_2" />
+                            <clipPath id="clip_1">
+                                <use xlink:href="#path_1" />
+                            </clipPath>
+                            <clipPath id="clip_2">
+                                <use xlink:href="#path_2" />
+                            </clipPath>
+                        </defs>
+                        <g id="Logo">
+                            <g id="Square" fill="#44444F" transform="translate(38 0)">
+                                <path
+                                    d="M10.44 20.22Q10.98 19.31 10.98 18.23Q10.98 16.87 10.38 16.03Q9.78 15.19 8.93 14.77Q8.08 14.35 6.72 13.87Q5.74 13.55 5.17 13.29Q4.6 13.03 4.23 12.62Q3.86 12.21 3.86 11.59Q3.86 10.81 4.34 10.4Q4.82 9.99 5.6 9.99Q6.5 9.99 7.02 10.48Q7.54 10.97 7.66 11.73L10.7 11.73Q10.52 9.93 9.19 8.85Q7.86 7.77 5.62 7.77Q3.46 7.77 2.15 8.82Q0.84 9.87 0.84 11.69Q0.84 13.01 1.43 13.83Q2.02 14.65 2.86 15.08Q3.7 15.51 5.02 15.95Q6.04 16.29 6.62 16.55Q7.2 16.81 7.58 17.24Q7.96 17.67 7.96 18.33Q7.96 19.07 7.49 19.54Q7.02 20.01 6.14 20.01Q5.16 20.01 4.57 19.44Q3.98 18.87 3.88 18.01L0.88 18.01Q0.98 19.29 1.69 20.25Q2.4 21.21 3.58 21.72Q4.76 22.23 6.26 22.23Q7.78 22.23 8.84 21.68Q9.9 21.13 10.44 20.22ZM56.08 13.13Q56.7 12.07 57.72 11.46Q58.74 10.85 60 10.85L60 13.87L59.18 13.87Q57.5161 13.87 56.7453 14.6997Q56.08 15.4158 56.08 16.75L56.08 22.09L53.26 22.09L53.26 11.01L56.08 11.01L56.08 13.13ZM46.48 11.53Q45.48 10.87 44.08 10.87Q42.68 10.87 41.56 11.55Q40.44 12.23 39.81 13.52Q39.18 14.81 39.18 16.55Q39.18 18.29 39.81 19.58Q40.44 20.87 41.56 21.55Q42.68 22.23 44.08 22.23Q45.48 22.23 46.48 21.56Q47.48 20.89 47.9 19.77L47.9 22.09L50.7 22.09L50.7 11.01L47.9 11.01L47.9 13.31Q47.48 12.19 46.48 11.53ZM71.88 17.09Q71.98 16.55 71.98 16.13Q71.98 14.61 71.31 13.42Q70.64 12.23 69.41 11.55Q68.18 10.87 66.54 10.87Q64.92 10.87 63.66 11.55Q62.4 12.23 61.7 13.52Q61 14.81 61 16.55Q61 18.29 61.7 19.57Q62.4 20.85 63.66 21.54Q64.92 22.23 66.54 22.23Q67.92 22.23 69.05 21.71Q70.18 21.19 70.9 20.27Q71.62 19.35 71.84 18.19L68.86 18.19Q68.68 19.01 68.03 19.49Q67.38 19.97 66.4 19.97Q65.3 19.97 64.56 19.27Q63.82 18.57 63.76 17.09L71.88 17.09ZM19.8 11.44Q18.88 10.89 17.6 10.89Q16.18 10.89 15.02 11.61Q13.86 12.33 13.18 13.62Q12.5 14.91 12.5 16.59Q12.5 18.25 13.18 19.53Q13.86 20.81 15.02 21.51Q16.18 22.21 17.6 22.21Q18.86 22.21 19.77 21.62Q20.68 21.03 21.22 19.95L21.22 27.37L24.02 27.37L24.02 11.01L21.22 11.01L21.22 12.99Q20.72 11.99 19.8 11.44ZM37.18 22.09L34.36 22.09L34.36 19.85Q33.92 20.97 32.91 21.6Q31.9 22.23 30.58 22.23Q28.66 22.23 27.52 20.97Q26.38 19.71 26.38 17.45L26.38 11.01L29.18 11.01L29.18 17.13Q29.18 18.45 29.86 19.18Q30.54 19.91 31.7 19.91Q32.92 19.91 33.64 19.13Q34.36 18.35 34.36 16.89L34.36 11.01L37.18 11.01L37.18 22.09ZM68.43 13.79Q69.2 14.49 69.14 15.85L63.76 15.85Q63.84 14.49 64.62 13.79Q65.4 13.09 66.54 13.09Q67.66 13.09 68.43 13.79ZM42.84 14.19Q43.64 13.33 44.96 13.33Q46.24 13.33 47.07 14.2Q47.9 15.07 47.9 16.55Q47.9 18.01 47.07 18.88Q46.24 19.75 44.96 19.75Q43.64 19.75 42.84 18.9Q42.04 18.05 42.04 16.55Q42.04 15.05 42.84 14.19ZM16.19 14.2Q17.02 13.35 18.28 13.35Q19.08 13.35 19.75 13.72Q20.42 14.09 20.82 14.81Q21.22 15.53 21.22 16.55Q21.22 17.57 20.82 18.29Q20.42 19.01 19.74 19.38Q19.06 19.75 18.28 19.75Q17.02 19.75 16.19 18.94Q15.36 18.13 15.36 16.59Q15.36 15.05 16.19 14.2Z" />
+                            </g>
+                            <g id="Rectangle">
+                                <g clip-path="url(#clip_1)">
+                                    <use xlink:href="#path_1" fill="none" stroke="#0073FF" stroke-width="8" />
+                                </g>
+                            </g>
+                            <g id="Rectangle-Copy">
+                                <g clip-path="url(#clip_2)">
+                                    <use xlink:href="#path_2" fill="none" stroke="#0073FF" stroke-width="8" />
+                                </g>
+                            </g>
+                        </g>
+                    </svg></div>
+                <!-- <div class="input-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" id="basic-addon1"><i class="fas fa-search"></i></span>
+                    </div>
+                    <input type="text" class="form-control" placeholder="Search..." aria-label="Username"
+                        aria-describedby="basic-addon1">
+                </div> -->
+
+                <button class="navbar-toggler" type="button" data-toggle="collapse"
+                    data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
+                        <!-- <li class="nav-item active">
+              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            </li> -->
+                        <li class="nav-item">
+                            <a class="nav-link" href="#"><span><i class="far fa-bell"></i></span></a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle user_name" href="#" id="navbarDropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <img src="../public//image/person.jpg" alt="">
+                                <div class="admin_name">
+                                    <h1>Austin Robertson</h1>
+                                    <h3>Marketing Administrator</h3>
+                                </div>
+                            </a>
+                            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="#">Action</a>
+                                <a class="dropdown-item" href="#">Another action</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="#">Something else here</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+
+            <div class="container profile_tabs">
+                <ul class="nav nav-tabs">
+                    <li class="nav-item">
+                        <a class="nav-link active"  href="profile.html">Profile</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link"  href="detail_table.html">Reviews</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="driver_detail.html">Detail</a>
+                    </li>
+                   
+                </ul>
+
+              
+                <div class="mt-5">
+                    <div class="container" id="Profit">
+                        <div class="row">
+                            <div class="col-xl-8 col-lg-8">
+                                <div class="row">
+                                    <div class="col-xl-12">
+                                        <div class="card profit_graph_card">
+                                            <div class="card-body">
+                                                <div class="profit-head-div">
+                                                    <h1>Earnings</h1>
+                                                    <div>
+                                                        <div class="years">
+                                                            <span class="active">1 years</span>
+                                                            <span>2 years</span>
+                                                            <span>3 years</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div id="profit_chart">
+
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-3 col-lg-6 mb-3 mt-3">
+                                        <div class="card admin_card">
+                                            <div class="card-body">
+                                                <div class="card_img">
+                                                    <div class="img_div">
+                                                        <span><i class="fas fa-arrow-up"></i></span>
+                                                    </div>
+                                                    <div class="cards_details">
+                                                        <h1>$6,726 <span>+2.5%</span> </h1>
+                                                        <h2>Income in this Period</h2>
+
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-3 col-lg-6 mb-3 mt-3">
+                                        <div class="card admin_card">
+                                            <div class="card-body">
+                                                <div class="card_img">
+                                                    <div class="img_div">
+                                                        <span><i class="fas fa-arrow-up"></i></span>
+                                                    </div>
+                                                    <div class="cards_details">
+                                                        <h1>$3,966 <span>+2.5%</span> </h1>
+                                                        <h2>Expense in this Period</h2>
+
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-3 col-lg-6 mb-3 mt-3">
+                                        <div class="card admin_card">
+                                            <div class="card-body">
+                                                <div class="card_img">
+                                                    <div class="img_div down">
+                                                        <span class="down_span"><i class="fas fa-arrow-down"></i></span>
+                                                    </div>
+                                                    <div class="cards_details">
+                                                        <h1>$3,966 <span class="down_span">+2.5%</span> </h1>
+                                                        <h2>Expense in this Period</h2>
+
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-3 col-lg-6 mb-3 mt-3">
+                                        <div class="card admin_card">
+                                            <div class="card-body">
+                                                <div class="card_img">
+                                                    <div class="img_div down">
+                                                        <span class="down_span"><i class="fas fa-arrow-down"></i></span>
+                                                    </div>
+                                                    <div class="cards_details">
+                                                        <h1>$3,966 <span class="down_span">+2.5%</span> </h1>
+                                                        <h2>Expense in this Period</h2>
+
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+
+
+
+                                    </div>
+                                    <div class="col-xl-12 col-lg-12 mb-3 mt-3">
+                                        <div class="card top_ten_authors">
+                                            <div class="card-body ">
+                                                <h1>Courses</h1>
+                                                <table class="table">
+                                                    <thead>
+                                                        <tr>
+                                                            <th></th>
+                                                            <th>Name</th>
+                                                            <th>Earning</th>
+                                                            <th>Sale</th>
+                                                            <th>Rating</th>
+
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td scope="row" class="img_col"><img
+                                                                    src="../public//image/person.jpg" class="img_courses"
+                                                                    alt=""></td>
+                                                            <td>Elston Gullan</td>
+                                                            <td>$10,000</td>
+                                                            <td>40</td>
+                                                            <td>4.3</td>
+
+                                                        </tr>
+                                                        <tr>
+                                                            <td scope="row" class="img_col"><img
+                                                                    src="../public//image/person.jpg" class="img_courses"
+                                                                    alt=""></td>
+                                                            <td>Elston Gullan</td>
+                                                            <td>$10,000</td>
+                                                            <td>40</td>
+                                                            <td>4.3</td>
+
+                                                        </tr>
+                                                        <tr>
+                                                            <td scope="row" class="img_col"><img
+                                                                    src="../public//image/person.jpg" class="img_courses"
+                                                                    alt=""></td>
+                                                            <td>Elston Gullan</td>
+                                                            <td>$10,000</td>
+                                                            <td>40</td>
+                                                            <td>4.3</td>
+
+                                                        </tr>
+                                                        <tr>
+                                                            <td scope="row" class="img_col"><img
+                                                                    src="../public//image/person.jpg" class="img_courses"
+                                                                    alt=""></td>
+                                                            <td>Elston Gullan</td>
+                                                            <td>$10,000</td>
+                                                            <td>40</td>
+                                                            <td>4.3</td>
+
+                                                        </tr>
+                                                        <tr>
+                                                            <td scope="row" class="img_col"><img
+                                                                    src="../public//image/person.jpg" class="img_courses"
+                                                                    alt=""></td>
+                                                            <td>Elston Gullan</td>
+                                                            <td>$10,000</td>
+                                                            <td>40</td>
+                                                            <td>4.3</td>
+
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-4 col-lg-4">
+                                <div class="card profile_page_detail">
+                                    <div class="card-body">
+                                        <div class="user_pic">
+                                            <img src="../public//image/person.jpg" alt="">
+                                            <h2>Austin Robertson</h2>
+                                            <h3>Marketing Administrator</h3>
+                                            <div class="user_edit">
+                                                <svg width="18px" height="18px" viewBox="0 0 24 24" version="1.1"
+                                                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                    xmlns="http://www.w3.org/2000/svg">
+                                                    <desc>Created with Lunacy</desc>
+                                                    <g id="ic_Edit">
+                                                        <path
+                                                            d="M18.4419 3.13399C19.186 3.87811 19.186 5.08458 18.4419 5.82871L6.45174 17.8189C6.30989 17.9607 6.12847 18.0564 5.93129 18.0933L1.17816 18.9826C0.490832 19.1112 -0.111152 18.5092 0.0174442 17.8218L0.90674 13.0687C0.943632 12.8715 1.03928 12.6901 1.18113 12.5483L13.1713 0.558095C13.9154 -0.186032 15.1219 -0.186032 15.866 0.558095L18.4419 3.13399ZM16.9757 4.48135L15.861 5.5961L13.4039 3.13904L14.5187 2.02428L16.9757 4.48135ZM11.9971 4.54581L14.4542 7.00288L5.26272 16.1943L2.24014 16.7599L2.80565 13.7373L11.9971 4.54581ZM9.9901 19L18.0099 19C19.33 19 19.33 17 18.0099 17L9.9901 17C8.66997 17 8.66997 19 9.9901 19Z"
+                                                            transform="translate(2 2)" id="Shape" fill="#92929D"
+                                                            fill-rule="evenodd" stroke="none" />
+                                                    </g>
+                                                </svg>
+                                                <span>Edit Profile</span>
+                                            </div>
+                                        </div>
+                                        <hr>
+                                        <div class="user_detail">
+                                            <span>enos.bogisich@orland.tv</span>
+                                            <span>083-412-0411</span>
+                                            <span>Senior (50k+)</span>
+                                        </div>
+                                        <div class="progress_user">
+
+                                        </div>
+                                        <div class="profile_progress">
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="70"
+                                                    aria-valuemin="0" aria-valuemax="100" style="width:70%">
+                                                    <span class="sr-only">70% Complete</span>
+                                                </div>
+                                            </div>
+                                            <div class="profile_progress_detail">
+                                                <span class="span_color">$362</span><span class="span_gray">/$450</span>
+                                            </div>
+                                        </div>
+                                        <div class="profile_description">
+                                            <p>Born and raised in Pennsylvania, Swift moved to Nashville, Tennessee, at
+                                                the age of 14 to pursue a career in country music. She signed with the
+                                                label Big Machine Records and became the youngest artist ever signed by
+                                                the Sony/ATV Music publishing house.</p>
+                                        </div>
+                                        <div class="profile_tag">
+                                            <span class="span_photo">Photography</span>
+                                            <span class="span_design">Design</span>
+                                            <span class="span_marketing">Marketing</span>
+                                        </div>
+
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                  
+                   
+                   
+                 
+                    
+
+
+                    <!-- /#page-content-wrapper -->
+
+                </div>
+                <!-- /#wrapper -->
+            </div>
+        </div>
+
+        <!-- Bootstrap core JavaScript -->
+        <script src="../vendor//jquery/jquery.min.js"></script>
+        <script src="../vendor//bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+        <script src="//cdn.ckeditor.com/4.14.1/standard/ckeditor.js"></script>
+        <script src="../public//js/jquery.tag.js"></script>
+        <script src="../public//js/jquery.tagsinput-revisited.js"></script>
+        <script src="../public//js/dropzone.js"></script>
+
+        <!-- Menu Toggle Script -->
+        <script>
+            $("#menu-toggle").click(function (e) {
+                e.preventDefault();
+                $("#wrapper").toggleClass("toggled");
+            });
+
+            var options = {
+                series: [{
+                    name: 'Net Profit',
+                    data: [44, 55, 57, 56, 61, 58, 63, 60, 66]
+                }, {
+                    name: 'Revenue',
+                    data: [76, 85, 101, 98, 87, 105, 91, 114, 94]
+                }, ],
+                chart: {
+                    type: 'bar',
+                    height: 350
+                },
+                plotOptions: {
+                    bar: {
+                        horizontal: false,
+                        columnWidth: '55%',
+                        endingShape: 'rounded'
+                    },
+                },
+                dataLabels: {
+                    enabled: false
+                },
+                stroke: {
+                    show: true,
+                    width: 2,
+                    colors: ['transparent']
+                },
+                xaxis: {
+                    categories: ['Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct'],
+                },
+                yaxis: {
+                    title: {
+                        // text: '$ (thousands)'
+                    }
+                },
+                fill: {
+                    opacity: 1
+                },
+                tooltip: {
+                    y: {
+                        formatter: function (val) {
+                            return "$ " + val + " thousands"
+                        }
+                    }
+                }
+            };
+
+            var chart = new ApexCharts(document.querySelector("#profit_chart"), options);
+            chart.render();
+
+            $('#example').tagsInput({
+                limit: 7,
+
+            });
+            // multiple certificate picture
+            Dropzone.autoDiscover = false;
+
+            function setup(id) {
+                let options = {
+                    thumbnailHeight: 210,
+                    thumbnailWidth: 140,
+                    maxFilesize: 50 / 1024,
+                    maxFiles: 5,
+                    dictResponseError: "Server not Configured",
+                    dictFileTooBig: "File too big ({{filesize}}MB). Must be less than {{maxFilesize}}MB.",
+                    dictCancelUpload: "",
+                    acceptedFiles: ".png,.jpg,.jpeg,.webp",
+                    init: function () {
+                        var self = this;
+                        //New file added
+                        self.on("addedfile", function (file) {
+                            console.log("new file added ", file);
+                        });
+                        // Send file starts
+                        self.on("sending", function (file) {
+                            console.log("upload started", file);
+                        });
+
+                        self.on("complete", function (file, response) {
+                            if (file.name !== "442343.jpg") {
+                                //this.removeFile(file);
+                            }
+                        });
+
+                        self.on("maxfilesreached", function (file, response) {
+                            //alert("too big");
+                        });
+
+                        self.on("maxfilesexceeded", function (file, response) {
+                            this.removeFile(file);
+                        });
+
+                        self.on("addedfile", function (file) {
+                            const pattern = /\d{6}(\.)(jpg|jpeg|png|webp)/;
+
+                            if (!pattern.test(file.name)) {
+                                //   this.removeFile(file);
+                            }
+                        });
+                    },
+                    accept: function (file, done) {
+                        const pattern = /\d{6}(\.)/;
+
+                        if (pattern.test(file.name)) {
+                            done();
+                        } else {
+                            done("File name not a valid admission number");
+                            return false;
+                        }
+                    },
+
+
+                    previewTemplate: `
+<div class="dz-preview dz-file-preview">
+
+<div class="dz-image"><img data-dz-thumbnail /></div>
+<div class="dz-progress"><span class="dz-upload" data-dz-uploadprogress></span></div>
+
+<div class="dz-error-message"><span data-dz-errormessage></span></div>
+<div class="dz-error-message"><i class="fa fa-warning">&nbsp;</i><span data-dz-errormessage></span></div>
+<div class="dz-filename"><span data-dz-name></span></div>
+<div class="dz-progress">
+<span class="dz-upload" data-dz-uploadprogress></span>
+</div>
+<div class="dz-remove">
+<div>
+<a href="javascript:undefined;" data-dz-remove=""style="color:red;" >Delete</a>
+</div>
+</div>
+</div>
+`
+                };
+
+                var myDropzone = new Dropzone(`#${id}`, options);
+            }
+
+            setup("demo-upload");
+        </script>
+
+</body>
+
+</html>

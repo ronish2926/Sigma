@@ -1,0 +1,12 @@
+[12-Aug-2020 14:53:14 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Terminal/ConnectionToken.php on line 15
+[12-Aug-2020 14:53:53 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Terminal/Location.php on line 16
+[12-Aug-2020 14:55:03 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Terminal/Reader.php on line 21
+[15-Aug-2020 16:22:58 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Terminal/ConnectionToken.php on line 15
+[15-Aug-2020 16:23:00 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Terminal/Location.php on line 16
+[15-Aug-2020 16:23:01 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Terminal/Reader.php on line 21
+[01-Sep-2020 06:30:05 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Terminal/Reader.php on line 21
+[01-Sep-2020 06:35:04 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Terminal/Location.php on line 16
+[01-Sep-2020 07:24:24 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Terminal/ConnectionToken.php on line 15
+[11-Sep-2020 04:39:16 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Terminal/Reader.php on line 21
+[11-Sep-2020 04:40:16 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Terminal/Location.php on line 16
+[11-Sep-2020 06:47:49 UTC] PHP Fatal error:  Class 'Stripe\ApiResource' not found in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app/stripe-php/lib/Terminal/ConnectionToken.php on line 15

@@ -1,0 +1,5 @@
+[10-Feb-2021 11:10:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app_panel/config.php on line 24
+[10-Feb-2021 11:10:34 UTC] PHP Notice:  Undefined index: driver_id in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app_panel/admin/driver_panel/profile.php on line 40
+[10-Feb-2021 11:10:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app_panel/config.php on line 24
+[15-May-2021 10:42:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app_panel/config.php on line 24
+[15-May-2021 11:54:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/du7dq9u1fhyz/public_html/api/kareem_taxi_app_panel/config.php on line 24
